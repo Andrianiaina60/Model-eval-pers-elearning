@@ -1,0 +1,46 @@
+=====================================================
+CREER VENV
+=====================================================
+deactivate 2>/dev/null || true
+
+cd ~/projet/Model-eval-pers-elearning
+
+rm -rf .venv
+
+sudo apt update
+sudo apt install -y python3-full python3-venv python3.12-venv
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+=========================================================
+VERIFICATION:
+===============================================
+which python
+which python3
+which pip
+
+
+# 1️⃣ Installer distutils (sudo requis)
+sudo apt-get install -y python3.12-distutils python3.12-dev
+
+# 2️⃣ Activer l'env
+source .venv/bin/activate
+
+# 3️⃣ Upgrade pip
+pip install --upgrade pip setuptools wheel
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install notebook ipykernel
+
+# 5️⃣ Lancer
+python Model-eval-pers-elearning.py
+source ../.venv/bin/activate
+ls
+cd notebooks
+streamlit run app.py
+
+jupyter notebook
+jupyter lab
+
+
+
