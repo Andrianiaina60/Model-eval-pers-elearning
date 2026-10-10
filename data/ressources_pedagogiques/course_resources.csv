@@ -1,0 +1,169 @@
+﻿RESOURCE_ID,PARCOURS,CHAPITRE,LECON,TITRE,TYPE_RESSOURCE,CONTENU,SOURCE
+DA-C1-L1-LEC,DA,C1 - Fondamentaux de la donnée,L1.1,Types de données et variables,lecon,,catalogue_titres_v1
+DA-C1-L1-EXO,DA,C1 - Fondamentaux de la donnée,L1.1,Exercice - Types de données et variables,exercice,,catalogue_titres_v1
+DA-C1-L2-LEC,DA,C1 - Fondamentaux de la donnée,L1.2,"Sources et formats de données (CSV, Excel, JSON)",lecon,,catalogue_titres_v1
+DA-C1-L2-EXO,DA,C1 - Fondamentaux de la donnée,L1.2,"Exercice - Sources et formats de données (CSV, Excel, JSON)",exercice,,catalogue_titres_v1
+DA-C1-L3-LEC,DA,C1 - Fondamentaux de la donnée,L1.3,Cycle de vie de la donnée et rôle du Data Analyst,lecon,,catalogue_titres_v1
+DA-C1-L3-EXO,DA,C1 - Fondamentaux de la donnée,L1.3,Exercice - Cycle de vie de la donnée et rôle du Data Analyst,exercice,,catalogue_titres_v1
+DA-C1-QUIZ,DA,C1 - Fondamentaux de la donnée,Quiz C1,Quiz - Fondamentaux de la donnée,quiz,,catalogue_titres_v1
+DA-C2-L1-LEC,DA,C2 - Excel pour l'analyse,L2.1,Formules et fonctions essentielles,lecon,,catalogue_titres_v1
+DA-C2-L1-EXO,DA,C2 - Excel pour l'analyse,L2.1,Exercice - Formules et fonctions essentielles,exercice,,catalogue_titres_v1
+DA-C2-L2-LEC,DA,C2 - Excel pour l'analyse,L2.2,Tableaux croisés dynamiques,lecon,,catalogue_titres_v1
+DA-C2-L2-EXO,DA,C2 - Excel pour l'analyse,L2.2,Exercice - Tableaux croisés dynamiques,exercice,,catalogue_titres_v1
+DA-C2-L3-LEC,DA,C2 - Excel pour l'analyse,L2.3,Nettoyage et mise en forme des données,lecon,,catalogue_titres_v1
+DA-C2-L3-EXO,DA,C2 - Excel pour l'analyse,L2.3,Exercice - Nettoyage et mise en forme des données,exercice,,catalogue_titres_v1
+DA-C2-QUIZ,DA,C2 - Excel pour l'analyse,Quiz C2,Quiz - Excel pour l'analyse,quiz,,catalogue_titres_v1
+DA-C3-L1-LEC,DA,C3 - SQL pour l'analyse,L3.1,"Requêtes SELECT, WHERE et ORDER BY",lecon,,catalogue_titres_v1
+DA-C3-L1-EXO,DA,C3 - SQL pour l'analyse,L3.1,"Exercice - Requêtes SELECT, WHERE et ORDER BY",exercice,,catalogue_titres_v1
+DA-C3-L2-LEC,DA,C3 - SQL pour l'analyse,L3.2,Jointures entre tables,lecon,,catalogue_titres_v1
+DA-C3-L2-EXO,DA,C3 - SQL pour l'analyse,L3.2,Exercice - Jointures entre tables,exercice,,catalogue_titres_v1
+DA-C3-L3-LEC,DA,C3 - SQL pour l'analyse,L3.3,Agrégations GROUP BY et HAVING,lecon,,catalogue_titres_v1
+DA-C3-L3-EXO,DA,C3 - SQL pour l'analyse,L3.3,Exercice - Agrégations GROUP BY et HAVING,exercice,,catalogue_titres_v1
+DA-C3-QUIZ,DA,C3 - SQL pour l'analyse,Quiz C3,Quiz - SQL pour l'analyse,quiz,,catalogue_titres_v1
+DA-C4-L1-LEC,DA,C4 - Python et Pandas pour l'analyse,L4.1,Manipulation de DataFrames,lecon,,catalogue_titres_v1
+DA-C4-L1-EXO,DA,C4 - Python et Pandas pour l'analyse,L4.1,Exercice - Manipulation de DataFrames,exercice,,catalogue_titres_v1
+DA-C4-L2-LEC,DA,C4 - Python et Pandas pour l'analyse,L4.2,Nettoyage et valeurs manquantes,lecon,,catalogue_titres_v1
+DA-C4-L2-EXO,DA,C4 - Python et Pandas pour l'analyse,L4.2,Exercice - Nettoyage et valeurs manquantes,exercice,,catalogue_titres_v1
+DA-C4-L3-LEC,DA,C4 - Python et Pandas pour l'analyse,L4.3,Agrégation et fusion de données,lecon,,catalogue_titres_v1
+DA-C4-L3-EXO,DA,C4 - Python et Pandas pour l'analyse,L4.3,Exercice - Agrégation et fusion de données,exercice,,catalogue_titres_v1
+DA-C4-QUIZ,DA,C4 - Python et Pandas pour l'analyse,Quiz C4,Quiz - Python et Pandas pour l'analyse,quiz,,catalogue_titres_v1
+DA-C5-L1-LEC,DA,C5 - Statistiques descriptives,L5.1,Tendance centrale et dispersion,lecon,,catalogue_titres_v1
+DA-C5-L1-EXO,DA,C5 - Statistiques descriptives,L5.1,Exercice - Tendance centrale et dispersion,exercice,,catalogue_titres_v1
+DA-C5-L2-LEC,DA,C5 - Statistiques descriptives,L5.2,Distributions et corrélation,lecon,,catalogue_titres_v1
+DA-C5-L2-EXO,DA,C5 - Statistiques descriptives,L5.2,Exercice - Distributions et corrélation,exercice,,catalogue_titres_v1
+DA-C5-L3-LEC,DA,C5 - Statistiques descriptives,L5.3,Détection des valeurs aberrantes,lecon,,catalogue_titres_v1
+DA-C5-L3-EXO,DA,C5 - Statistiques descriptives,L5.3,Exercice - Détection des valeurs aberrantes,exercice,,catalogue_titres_v1
+DA-C5-QUIZ,DA,C5 - Statistiques descriptives,Quiz C5,Quiz - Statistiques descriptives,quiz,,catalogue_titres_v1
+DA-C6-L1-LEC,DA,C6 - Visualisation et communication,L6.1,Choix du graphique adapté,lecon,,catalogue_titres_v1
+DA-C6-L1-EXO,DA,C6 - Visualisation et communication,L6.1,Exercice - Choix du graphique adapté,exercice,,catalogue_titres_v1
+DA-C6-L2-LEC,DA,C6 - Visualisation et communication,L6.2,Construction d'un tableau de bord simple,lecon,,catalogue_titres_v1
+DA-C6-L2-EXO,DA,C6 - Visualisation et communication,L6.2,Exercice - Construction d'un tableau de bord simple,exercice,,catalogue_titres_v1
+DA-C6-L3-LEC,DA,C6 - Visualisation et communication,L6.3,Storytelling avec les données,lecon,,catalogue_titres_v1
+DA-C6-L3-EXO,DA,C6 - Visualisation et communication,L6.3,Exercice - Storytelling avec les données,exercice,,catalogue_titres_v1
+DA-C6-QUIZ,DA,C6 - Visualisation et communication,Quiz C6,Quiz - Visualisation et communication,quiz,,catalogue_titres_v1
+BI-C1-L1-LEC,BI,C1 - Fondamentaux de la Business Intelligence,L1.1,Concepts de la BI,lecon,,catalogue_titres_v1
+BI-C1-L1-EXO,BI,C1 - Fondamentaux de la Business Intelligence,L1.1,Exercice - Concepts de la BI,exercice,,catalogue_titres_v1
+BI-C1-L2-LEC,BI,C1 - Fondamentaux de la Business Intelligence,L1.2,Indicateurs et KPI,lecon,,catalogue_titres_v1
+BI-C1-L2-EXO,BI,C1 - Fondamentaux de la Business Intelligence,L1.2,Exercice - Indicateurs et KPI,exercice,,catalogue_titres_v1
+BI-C1-L3-LEC,BI,C1 - Fondamentaux de la Business Intelligence,L1.3,Architecture décisionnelle,lecon,,catalogue_titres_v1
+BI-C1-L3-EXO,BI,C1 - Fondamentaux de la Business Intelligence,L1.3,Exercice - Architecture décisionnelle,exercice,,catalogue_titres_v1
+BI-C1-QUIZ,BI,C1 - Fondamentaux de la Business Intelligence,Quiz C1,Quiz - Fondamentaux de la Business Intelligence,quiz,,catalogue_titres_v1
+BI-C2-L1-LEC,BI,C2 - Modélisation dimensionnelle,L2.1,Tables de faits et dimensions,lecon,,catalogue_titres_v1
+BI-C2-L1-EXO,BI,C2 - Modélisation dimensionnelle,L2.1,Exercice - Tables de faits et dimensions,exercice,,catalogue_titres_v1
+BI-C2-L2-LEC,BI,C2 - Modélisation dimensionnelle,L2.2,Schéma en étoile et en flocon,lecon,,catalogue_titres_v1
+BI-C2-L2-EXO,BI,C2 - Modélisation dimensionnelle,L2.2,Exercice - Schéma en étoile et en flocon,exercice,,catalogue_titres_v1
+BI-C2-L3-LEC,BI,C2 - Modélisation dimensionnelle,L2.3,Granularité et hiérarchies,lecon,,catalogue_titres_v1
+BI-C2-L3-EXO,BI,C2 - Modélisation dimensionnelle,L2.3,Exercice - Granularité et hiérarchies,exercice,,catalogue_titres_v1
+BI-C2-QUIZ,BI,C2 - Modélisation dimensionnelle,Quiz C2,Quiz - Modélisation dimensionnelle,quiz,,catalogue_titres_v1
+BI-C3-L1-LEC,BI,C3 - ETL et entrepôts de données,L3.1,Extraction et transformation,lecon,,catalogue_titres_v1
+BI-C3-L1-EXO,BI,C3 - ETL et entrepôts de données,L3.1,Exercice - Extraction et transformation,exercice,,catalogue_titres_v1
+BI-C3-L2-LEC,BI,C3 - ETL et entrepôts de données,L3.2,Chargement et planification,lecon,,catalogue_titres_v1
+BI-C3-L2-EXO,BI,C3 - ETL et entrepôts de données,L3.2,Exercice - Chargement et planification,exercice,,catalogue_titres_v1
+BI-C3-L3-LEC,BI,C3 - ETL et entrepôts de données,L3.3,Qualité des données,lecon,,catalogue_titres_v1
+BI-C3-L3-EXO,BI,C3 - ETL et entrepôts de données,L3.3,Exercice - Qualité des données,exercice,,catalogue_titres_v1
+BI-C3-QUIZ,BI,C3 - ETL et entrepôts de données,Quiz C3,Quiz - ETL et entrepôts de données,quiz,,catalogue_titres_v1
+BI-C4-L1-LEC,BI,C4 - SQL avancé pour la BI,L4.1,Sous-requêtes et CTE,lecon,,catalogue_titres_v1
+BI-C4-L1-EXO,BI,C4 - SQL avancé pour la BI,L4.1,Exercice - Sous-requêtes et CTE,exercice,,catalogue_titres_v1
+BI-C4-L2-LEC,BI,C4 - SQL avancé pour la BI,L4.2,Fonctions de fenêtrage,lecon,,catalogue_titres_v1
+BI-C4-L2-EXO,BI,C4 - SQL avancé pour la BI,L4.2,Exercice - Fonctions de fenêtrage,exercice,,catalogue_titres_v1
+BI-C4-L3-LEC,BI,C4 - SQL avancé pour la BI,L4.3,Optimisation des requêtes,lecon,,catalogue_titres_v1
+BI-C4-L3-EXO,BI,C4 - SQL avancé pour la BI,L4.3,Exercice - Optimisation des requêtes,exercice,,catalogue_titres_v1
+BI-C4-QUIZ,BI,C4 - SQL avancé pour la BI,Quiz C4,Quiz - SQL avancé pour la BI,quiz,,catalogue_titres_v1
+BI-C5-L1-LEC,BI,C5 - Outils de reporting (Power BI / Tableau),L5.1,Connexion et modélisation des données,lecon,,catalogue_titres_v1
+BI-C5-L1-EXO,BI,C5 - Outils de reporting (Power BI / Tableau),L5.1,Exercice - Connexion et modélisation des données,exercice,,catalogue_titres_v1
+BI-C5-L2-LEC,BI,C5 - Outils de reporting (Power BI / Tableau),L5.2,Mesures et calculs (DAX),lecon,,catalogue_titres_v1
+BI-C5-L2-EXO,BI,C5 - Outils de reporting (Power BI / Tableau),L5.2,Exercice - Mesures et calculs (DAX),exercice,,catalogue_titres_v1
+BI-C5-L3-LEC,BI,C5 - Outils de reporting (Power BI / Tableau),L5.3,Rapports interactifs,lecon,,catalogue_titres_v1
+BI-C5-L3-EXO,BI,C5 - Outils de reporting (Power BI / Tableau),L5.3,Exercice - Rapports interactifs,exercice,,catalogue_titres_v1
+BI-C5-QUIZ,BI,C5 - Outils de reporting (Power BI / Tableau),Quiz C5,Quiz - Outils de reporting (Power BI / Tableau),quiz,,catalogue_titres_v1
+BI-C6-L1-LEC,BI,C6 - Gouvernance et pilotage de la performance,L6.1,Conception de tableaux de bord décisionnels,lecon,,catalogue_titres_v1
+BI-C6-L1-EXO,BI,C6 - Gouvernance et pilotage de la performance,L6.1,Exercice - Conception de tableaux de bord décisionnels,exercice,,catalogue_titres_v1
+BI-C6-L2-LEC,BI,C6 - Gouvernance et pilotage de la performance,L6.2,Gouvernance et sécurité des données,lecon,,catalogue_titres_v1
+BI-C6-L2-EXO,BI,C6 - Gouvernance et pilotage de la performance,L6.2,Exercice - Gouvernance et sécurité des données,exercice,,catalogue_titres_v1
+BI-C6-L3-LEC,BI,C6 - Gouvernance et pilotage de la performance,L6.3,Déploiement et adoption des rapports,lecon,,catalogue_titres_v1
+BI-C6-L3-EXO,BI,C6 - Gouvernance et pilotage de la performance,L6.3,Exercice - Déploiement et adoption des rapports,exercice,,catalogue_titres_v1
+BI-C6-QUIZ,BI,C6 - Gouvernance et pilotage de la performance,Quiz C6,Quiz - Gouvernance et pilotage de la performance,quiz,,catalogue_titres_v1
+DS-C1-L1-LEC,DS,C1 - Python et mathématiques pour la data science,L1.1,NumPy et Pandas,lecon,,catalogue_titres_v1
+DS-C1-L1-EXO,DS,C1 - Python et mathématiques pour la data science,L1.1,Exercice - NumPy et Pandas,exercice,,catalogue_titres_v1
+DS-C1-L2-LEC,DS,C1 - Python et mathématiques pour la data science,L1.2,Algèbre linéaire et probabilités,lecon,,catalogue_titres_v1
+DS-C1-L2-EXO,DS,C1 - Python et mathématiques pour la data science,L1.2,Exercice - Algèbre linéaire et probabilités,exercice,,catalogue_titres_v1
+DS-C1-L3-LEC,DS,C1 - Python et mathématiques pour la data science,L1.3,Statistiques inférentielles et tests d'hypothèses,lecon,,catalogue_titres_v1
+DS-C1-L3-EXO,DS,C1 - Python et mathématiques pour la data science,L1.3,Exercice - Statistiques inférentielles et tests d'hypothèses,exercice,,catalogue_titres_v1
+DS-C1-QUIZ,DS,C1 - Python et mathématiques pour la data science,Quiz C1,Quiz - Python et mathématiques pour la data science,quiz,,catalogue_titres_v1
+DS-C2-L1-LEC,DS,C2 - Exploration et préparation des données,L2.1,Analyse exploratoire (EDA),lecon,,catalogue_titres_v1
+DS-C2-L1-EXO,DS,C2 - Exploration et préparation des données,L2.1,Exercice - Analyse exploratoire (EDA),exercice,,catalogue_titres_v1
+DS-C2-L2-LEC,DS,C2 - Exploration et préparation des données,L2.2,Feature engineering,lecon,,catalogue_titres_v1
+DS-C2-L2-EXO,DS,C2 - Exploration et préparation des données,L2.2,Exercice - Feature engineering,exercice,,catalogue_titres_v1
+DS-C2-L3-LEC,DS,C2 - Exploration et préparation des données,L2.3,Encodage et normalisation,lecon,,catalogue_titres_v1
+DS-C2-L3-EXO,DS,C2 - Exploration et préparation des données,L2.3,Exercice - Encodage et normalisation,exercice,,catalogue_titres_v1
+DS-C2-QUIZ,DS,C2 - Exploration et préparation des données,Quiz C2,Quiz - Exploration et préparation des données,quiz,,catalogue_titres_v1
+DS-C3-L1-LEC,DS,C3 - Apprentissage supervisé,L3.1,Régression linéaire et logistique,lecon,,catalogue_titres_v1
+DS-C3-L1-EXO,DS,C3 - Apprentissage supervisé,L3.1,Exercice - Régression linéaire et logistique,exercice,,catalogue_titres_v1
+DS-C3-L2-LEC,DS,C3 - Apprentissage supervisé,L3.2,Arbres de décision et forêts aléatoires,lecon,,catalogue_titres_v1
+DS-C3-L2-EXO,DS,C3 - Apprentissage supervisé,L3.2,Exercice - Arbres de décision et forêts aléatoires,exercice,,catalogue_titres_v1
+DS-C3-L3-LEC,DS,C3 - Apprentissage supervisé,L3.3,Gradient boosting,lecon,,catalogue_titres_v1
+DS-C3-L3-EXO,DS,C3 - Apprentissage supervisé,L3.3,Exercice - Gradient boosting,exercice,,catalogue_titres_v1
+DS-C3-QUIZ,DS,C3 - Apprentissage supervisé,Quiz C3,Quiz - Apprentissage supervisé,quiz,,catalogue_titres_v1
+DS-C4-L1-LEC,DS,C4 - Évaluation et validation des modèles,L4.1,Métriques de classification et de régression,lecon,,catalogue_titres_v1
+DS-C4-L1-EXO,DS,C4 - Évaluation et validation des modèles,L4.1,Exercice - Métriques de classification et de régression,exercice,,catalogue_titres_v1
+DS-C4-L2-LEC,DS,C4 - Évaluation et validation des modèles,L4.2,Validation croisée,lecon,,catalogue_titres_v1
+DS-C4-L2-EXO,DS,C4 - Évaluation et validation des modèles,L4.2,Exercice - Validation croisée,exercice,,catalogue_titres_v1
+DS-C4-L3-LEC,DS,C4 - Évaluation et validation des modèles,L4.3,Surapprentissage et régularisation,lecon,,catalogue_titres_v1
+DS-C4-L3-EXO,DS,C4 - Évaluation et validation des modèles,L4.3,Exercice - Surapprentissage et régularisation,exercice,,catalogue_titres_v1
+DS-C4-QUIZ,DS,C4 - Évaluation et validation des modèles,Quiz C4,Quiz - Évaluation et validation des modèles,quiz,,catalogue_titres_v1
+DS-C5-L1-LEC,DS,C5 - Apprentissage non supervisé,L5.1,"Clustering (K-Means, hiérarchique)",lecon,,catalogue_titres_v1
+DS-C5-L1-EXO,DS,C5 - Apprentissage non supervisé,L5.1,"Exercice - Clustering (K-Means, hiérarchique)",exercice,,catalogue_titres_v1
+DS-C5-L2-LEC,DS,C5 - Apprentissage non supervisé,L5.2,Réduction de dimension (ACP),lecon,,catalogue_titres_v1
+DS-C5-L2-EXO,DS,C5 - Apprentissage non supervisé,L5.2,Exercice - Réduction de dimension (ACP),exercice,,catalogue_titres_v1
+DS-C5-L3-LEC,DS,C5 - Apprentissage non supervisé,L5.3,Détection d'anomalies,lecon,,catalogue_titres_v1
+DS-C5-L3-EXO,DS,C5 - Apprentissage non supervisé,L5.3,Exercice - Détection d'anomalies,exercice,,catalogue_titres_v1
+DS-C5-QUIZ,DS,C5 - Apprentissage non supervisé,Quiz C5,Quiz - Apprentissage non supervisé,quiz,,catalogue_titres_v1
+DS-C6-L1-LEC,DS,C6 - Déploiement et MLOps,L6.1,Pipelines scikit-learn,lecon,,catalogue_titres_v1
+DS-C6-L1-EXO,DS,C6 - Déploiement et MLOps,L6.1,Exercice - Pipelines scikit-learn,exercice,,catalogue_titres_v1
+DS-C6-L2-LEC,DS,C6 - Déploiement et MLOps,L6.2,Sauvegarde et mise en production d'un modèle,lecon,,catalogue_titres_v1
+DS-C6-L2-EXO,DS,C6 - Déploiement et MLOps,L6.2,Exercice - Sauvegarde et mise en production d'un modèle,exercice,,catalogue_titres_v1
+DS-C6-L3-LEC,DS,C6 - Déploiement et MLOps,L6.3,Suivi et monitoring des modèles,lecon,,catalogue_titres_v1
+DS-C6-L3-EXO,DS,C6 - Déploiement et MLOps,L6.3,Exercice - Suivi et monitoring des modèles,exercice,,catalogue_titres_v1
+DS-C6-QUIZ,DS,C6 - Déploiement et MLOps,Quiz C6,Quiz - Déploiement et MLOps,quiz,,catalogue_titres_v1
+IA-C1-L1-LEC,IA,C1 - Fondements de l'intelligence artificielle,L1.1,Histoire et grandes familles de l'IA,lecon,,catalogue_titres_v1
+IA-C1-L1-EXO,IA,C1 - Fondements de l'intelligence artificielle,L1.1,Exercice - Histoire et grandes familles de l'IA,exercice,,catalogue_titres_v1
+IA-C1-L2-LEC,IA,C1 - Fondements de l'intelligence artificielle,L1.2,Rappels Python et algèbre pour l'IA,lecon,,catalogue_titres_v1
+IA-C1-L2-EXO,IA,C1 - Fondements de l'intelligence artificielle,L1.2,Exercice - Rappels Python et algèbre pour l'IA,exercice,,catalogue_titres_v1
+IA-C1-L3-LEC,IA,C1 - Fondements de l'intelligence artificielle,L1.3,Éthique et IA responsable,lecon,,catalogue_titres_v1
+IA-C1-L3-EXO,IA,C1 - Fondements de l'intelligence artificielle,L1.3,Exercice - Éthique et IA responsable,exercice,,catalogue_titres_v1
+IA-C1-QUIZ,IA,C1 - Fondements de l'intelligence artificielle,Quiz C1,Quiz - Fondements de l'intelligence artificielle,quiz,,catalogue_titres_v1
+IA-C2-L1-LEC,IA,C2 - Réseaux de neurones,L2.1,Perceptron et réseaux multicouches,lecon,,catalogue_titres_v1
+IA-C2-L1-EXO,IA,C2 - Réseaux de neurones,L2.1,Exercice - Perceptron et réseaux multicouches,exercice,,catalogue_titres_v1
+IA-C2-L2-LEC,IA,C2 - Réseaux de neurones,L2.2,Rétropropagation et optimisation,lecon,,catalogue_titres_v1
+IA-C2-L2-EXO,IA,C2 - Réseaux de neurones,L2.2,Exercice - Rétropropagation et optimisation,exercice,,catalogue_titres_v1
+IA-C2-L3-LEC,IA,C2 - Réseaux de neurones,L2.3,Régularisation et hyperparamètres,lecon,,catalogue_titres_v1
+IA-C2-L3-EXO,IA,C2 - Réseaux de neurones,L2.3,Exercice - Régularisation et hyperparamètres,exercice,,catalogue_titres_v1
+IA-C2-QUIZ,IA,C2 - Réseaux de neurones,Quiz C2,Quiz - Réseaux de neurones,quiz,,catalogue_titres_v1
+IA-C3-L1-LEC,IA,C3 - Deep learning pour la vision,L3.1,Réseaux convolutifs (CNN),lecon,,catalogue_titres_v1
+IA-C3-L1-EXO,IA,C3 - Deep learning pour la vision,L3.1,Exercice - Réseaux convolutifs (CNN),exercice,,catalogue_titres_v1
+IA-C3-L2-LEC,IA,C3 - Deep learning pour la vision,L3.2,Transfer learning,lecon,,catalogue_titres_v1
+IA-C3-L2-EXO,IA,C3 - Deep learning pour la vision,L3.2,Exercice - Transfer learning,exercice,,catalogue_titres_v1
+IA-C3-L3-LEC,IA,C3 - Deep learning pour la vision,L3.3,Détection et segmentation d'objets,lecon,,catalogue_titres_v1
+IA-C3-L3-EXO,IA,C3 - Deep learning pour la vision,L3.3,Exercice - Détection et segmentation d'objets,exercice,,catalogue_titres_v1
+IA-C3-QUIZ,IA,C3 - Deep learning pour la vision,Quiz C3,Quiz - Deep learning pour la vision,quiz,,catalogue_titres_v1
+IA-C4-L1-LEC,IA,C4 - Traitement automatique du langage (NLP),L4.1,Prétraitement et représentation du texte,lecon,,catalogue_titres_v1
+IA-C4-L1-EXO,IA,C4 - Traitement automatique du langage (NLP),L4.1,Exercice - Prétraitement et représentation du texte,exercice,,catalogue_titres_v1
+IA-C4-L2-LEC,IA,C4 - Traitement automatique du langage (NLP),L4.2,Embeddings de mots et de phrases,lecon,,catalogue_titres_v1
+IA-C4-L2-EXO,IA,C4 - Traitement automatique du langage (NLP),L4.2,Exercice - Embeddings de mots et de phrases,exercice,,catalogue_titres_v1
+IA-C4-L3-LEC,IA,C4 - Traitement automatique du langage (NLP),L4.3,Architecture Transformer,lecon,,catalogue_titres_v1
+IA-C4-L3-EXO,IA,C4 - Traitement automatique du langage (NLP),L4.3,Exercice - Architecture Transformer,exercice,,catalogue_titres_v1
+IA-C4-QUIZ,IA,C4 - Traitement automatique du langage (NLP),Quiz C4,Quiz - Traitement automatique du langage (NLP),quiz,,catalogue_titres_v1
+IA-C5-L1-LEC,IA,C5 - LLM et IA générative,L5.1,Prompt engineering,lecon,,catalogue_titres_v1
+IA-C5-L1-EXO,IA,C5 - LLM et IA générative,L5.1,Exercice - Prompt engineering,exercice,,catalogue_titres_v1
+IA-C5-L2-LEC,IA,C5 - LLM et IA générative,L5.2,RAG (Retrieval-Augmented Generation),lecon,,catalogue_titres_v1
+IA-C5-L2-EXO,IA,C5 - LLM et IA générative,L5.2,Exercice - RAG (Retrieval-Augmented Generation),exercice,,catalogue_titres_v1
+IA-C5-L3-LEC,IA,C5 - LLM et IA générative,L5.3,Fine-tuning et évaluation des LLM,lecon,,catalogue_titres_v1
+IA-C5-L3-EXO,IA,C5 - LLM et IA générative,L5.3,Exercice - Fine-tuning et évaluation des LLM,exercice,,catalogue_titres_v1
+IA-C5-QUIZ,IA,C5 - LLM et IA générative,Quiz C5,Quiz - LLM et IA générative,quiz,,catalogue_titres_v1
+IA-C6-L1-LEC,IA,C6 - Déploiement et IA de confiance,L6.1,API d'inférence et déploiement,lecon,,catalogue_titres_v1
+IA-C6-L1-EXO,IA,C6 - Déploiement et IA de confiance,L6.1,Exercice - API d'inférence et déploiement,exercice,,catalogue_titres_v1
+IA-C6-L2-LEC,IA,C6 - Déploiement et IA de confiance,L6.2,Biais et explicabilité,lecon,,catalogue_titres_v1
+IA-C6-L2-EXO,IA,C6 - Déploiement et IA de confiance,L6.2,Exercice - Biais et explicabilité,exercice,,catalogue_titres_v1
+IA-C6-L3-LEC,IA,C6 - Déploiement et IA de confiance,L6.3,Monitoring et maintenance des modèles IA,lecon,,catalogue_titres_v1
+IA-C6-L3-EXO,IA,C6 - Déploiement et IA de confiance,L6.3,Exercice - Monitoring et maintenance des modèles IA,exercice,,catalogue_titres_v1
+IA-C6-QUIZ,IA,C6 - Déploiement et IA de confiance,Quiz C6,Quiz - Déploiement et IA de confiance,quiz,,catalogue_titres_v1
