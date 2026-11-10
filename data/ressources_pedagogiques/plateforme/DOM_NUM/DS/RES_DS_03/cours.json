@@ -1,0 +1,10 @@
+{
+  "cours_id": "RES_DS_03",
+  "parcours_id": "DS",
+  "domaine_id": "DOM_NUM",
+  "cours_titre": "Cours DS - Avance",
+  "niveau_cours": "Avance",
+  "chemin_pdf_source": "documents/DS/data_science_avance.pdf",
+  "chemin_pdf_plateforme": "DOM_NUM/DS/RES_DS_03/support_cours.pdf",
+  "association_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER"
+}

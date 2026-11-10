@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS02_03",
+  "cours_id": "RES_DS_02",
+  "chapitre_titre": "Visualisation",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Créer des histogrammes; nuages de points; courbes; personnaliser les graphiques",
+    "Explorer un jeu de données; détecter les anomalies; formuler des hypothèses"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "Matplotlib; graphique; visualisation",
+    "EDA; anomalie; hypothèse"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

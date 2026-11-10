@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA01_02",
+  "cours_id": "RES_IA_01",
+  "chapitre_titre": "Données et IA",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Identifier les données utiles; détecter les biais; préparer un dataset",
+    "Analyser les risques; la confidentialité; l'équité; la transparence"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "données; biais; dataset",
+    "éthique; biais; confidentialité"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

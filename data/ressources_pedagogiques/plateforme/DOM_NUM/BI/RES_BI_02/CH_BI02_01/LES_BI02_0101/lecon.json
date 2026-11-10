@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI02_0101",
+  "chapitre_id": "CH_BI02_01",
+  "lecon_titre": "Tables et relations",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Créer un modèle en étoile; définir les relations; gérer les cardinalités",
+  "mots_cles": "modèle; relation; étoile",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

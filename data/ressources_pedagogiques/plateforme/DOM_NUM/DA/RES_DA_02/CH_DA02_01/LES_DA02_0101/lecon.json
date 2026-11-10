@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA02_0101",
+  "chapitre_id": "CH_DA02_01",
+  "lecon_titre": "Créer un TCD",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Créer un tableau croisé dynamique; choisir les champs; organiser les valeurs",
+  "mots_cles": "TCD; analyse; agrégation",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

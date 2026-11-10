@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA02_0301",
+  "chapitre_id": "CH_IA02_03",
+  "lecon_titre": "Sélection des variables",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Identifier les variables importantes; réduire la dimensionnalité; éviter le bruit",
+  "mots_cles": "feature importance; sélection; dimension",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

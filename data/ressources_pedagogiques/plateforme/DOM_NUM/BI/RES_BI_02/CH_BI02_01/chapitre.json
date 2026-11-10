@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI02_01",
+  "cours_id": "RES_BI_02",
+  "chapitre_titre": "Modèle de données",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Créer un modèle en étoile; définir les relations; gérer les cardinalités",
+    "Distinguer les tables de dimensions et de faits; concevoir un modèle robuste"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "modèle; relation; étoile",
+    "dimension; fait; modélisation"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

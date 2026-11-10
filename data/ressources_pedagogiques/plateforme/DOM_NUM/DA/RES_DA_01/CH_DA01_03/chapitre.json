@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA01_03",
+  "cours_id": "RES_DA_01",
+  "chapitre_titre": "Organisation des données",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Trier des données; appliquer des filtres; gérer les doublons",
+    "Créer un tableau structuré; insérer un graphique; interpréter un graphique"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "tri; filtre; doublons",
+    "tableau; graphique; visualisation"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

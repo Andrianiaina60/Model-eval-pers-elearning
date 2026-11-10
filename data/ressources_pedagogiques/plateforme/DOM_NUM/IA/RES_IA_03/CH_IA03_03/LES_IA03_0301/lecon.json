@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA03_0301",
+  "chapitre_id": "CH_IA03_03",
+  "lecon_titre": "Régularisation et optimisation",
+  "lecon_ordre": "1",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Utiliser dropout; batch normalization; early stopping; optimiser l'apprentissage",
+  "mots_cles": "dropout; régularisation; optimisation",
+  "type_evaluation": "exercice",
+  "score_minimum": "70"
+}

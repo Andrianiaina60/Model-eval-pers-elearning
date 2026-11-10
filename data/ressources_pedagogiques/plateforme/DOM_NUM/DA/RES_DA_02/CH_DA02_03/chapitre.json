@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA02_03",
+  "cours_id": "RES_DA_02",
+  "chapitre_titre": "Analyse de données",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Utiliser RECHERCHEV; XLOOKUP; consolider plusieurs feuilles",
+    "Supprimer les doublons; corriger les formats; préparer une base d'analyse"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "RECHERCHEV; XLOOKUP; consolidation",
+    "nettoyage; qualité; données"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

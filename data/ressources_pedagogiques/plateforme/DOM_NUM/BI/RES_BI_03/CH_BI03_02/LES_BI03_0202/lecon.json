@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI03_0202",
+  "chapitre_id": "CH_BI03_02",
+  "lecon_titre": "Actualisation et gouvernance",
+  "lecon_ordre": "2",
+  "duree_minutes": "55",
+  "objectifs_apprentissage": "Configurer l'actualisation; gérer les accès; appliquer la sécurité au niveau des lignes",
+  "mots_cles": "actualisation; sécurité; RLS",
+  "type_evaluation": "quiz",
+  "score_minimum": "70"
+}

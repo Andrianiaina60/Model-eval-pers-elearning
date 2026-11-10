@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS01_0201",
+  "chapitre_id": "CH_DS01_02",
+  "lecon_titre": "Listes et dictionnaires",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Manipuler les listes; tuples; dictionnaires; ensembles",
+  "mots_cles": "liste; dictionnaire; structure",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

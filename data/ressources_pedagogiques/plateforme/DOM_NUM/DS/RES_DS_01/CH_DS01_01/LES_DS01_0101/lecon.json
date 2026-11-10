@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS01_0101",
+  "chapitre_id": "CH_DS01_01",
+  "lecon_titre": "Variables et types",
+  "lecon_ordre": "1",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Déclarer des variables; utiliser les types; convertir des valeurs",
+  "mots_cles": "Python; variable; type",
+  "type_evaluation": "quiz",
+  "score_minimum": "60"
+}

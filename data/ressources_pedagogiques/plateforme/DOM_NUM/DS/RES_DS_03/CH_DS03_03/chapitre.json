@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS03_03",
+  "cours_id": "RES_DS_03",
+  "chapitre_titre": "Évaluation et optimisation",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Utiliser accuracy; précision; rappel; F1; AUC; matrice de confusion",
+    "Appliquer la validation croisée; optimiser les hyperparamètres; sélectionner un modèle"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "accuracy; F1; AUC; matrice",
+    "cross-validation; hyperparamètre; GridSearch"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

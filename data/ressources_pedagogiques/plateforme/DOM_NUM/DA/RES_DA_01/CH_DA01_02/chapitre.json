@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA01_02",
+  "cours_id": "RES_DA_01",
+  "chapitre_titre": "Formules de base",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Utiliser les opérations; comprendre les références relatives et absolues",
+    "Utiliser SOMME; MOYENNE; SI et les fonctions logiques"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "formules; références; opérations",
+    "SOMME; MOYENNE; SI"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

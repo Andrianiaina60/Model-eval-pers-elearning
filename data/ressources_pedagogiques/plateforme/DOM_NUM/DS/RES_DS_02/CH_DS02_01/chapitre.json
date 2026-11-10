@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS02_01",
+  "cours_id": "RES_DS_02",
+  "chapitre_titre": "NumPy et tableaux",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Créer des tableaux; indexer; filtrer; effectuer des opérations vectorisées",
+    "Calculer moyenne; médiane; écart-type; corrélations"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "NumPy; tableau; vectorisation",
+    "statistique; moyenne; corrélation"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

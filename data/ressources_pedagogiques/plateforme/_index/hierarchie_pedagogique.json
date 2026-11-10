@@ -1,0 +1,1262 @@
+{
+  "domaines": [
+    {
+      "domaine_id": "DOM_NUM",
+      "domaine_nom": "Informatique et sciences des donnees",
+      "parcours": [
+        {
+          "parcours_id": "BI",
+          "domaine_id": "DOM_NUM",
+          "parcours_nom": "Business Intelligence",
+          "cours": [
+            {
+              "cours_id": "RES_BI_01",
+              "parcours_id": "BI",
+              "cours_titre": "Cours BI - Debutant",
+              "niveau_cours": "Debutant",
+              "ressource_id_source": "RES_BI_01",
+              "chemin_pdf": "documents/BI/powerbi_base.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_BI01_01",
+                  "cours_id": "RES_BI_01",
+                  "chapitre_titre": "Découverte de Power BI",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI01_0101",
+                      "chapitre_id": "CH_BI01_01",
+                      "lecon_titre": "Écosystème Power BI",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "30",
+                      "objectifs_apprentissage": "Identifier Power BI Desktop; Service; Mobile; comprendre le flux BI",
+                      "mots_cles": "Power BI; BI; écosystème",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_BI01_0102",
+                      "chapitre_id": "CH_BI01_01",
+                      "lecon_titre": "Premier rapport",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Importer un fichier; créer des visuels; publier un rapport simple",
+                      "mots_cles": "rapport; visuel; import",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI01_02",
+                  "cours_id": "RES_BI_01",
+                  "chapitre_titre": "Power Query",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI01_0201",
+                      "chapitre_id": "CH_BI01_02",
+                      "lecon_titre": "Connexion aux données",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Se connecter à Excel; CSV; base de données; comprendre les connecteurs",
+                      "mots_cles": "connexion; source; connecteur",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_BI01_0202",
+                      "chapitre_id": "CH_BI01_02",
+                      "lecon_titre": "Nettoyage et transformation",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Nettoyer les colonnes; modifier les types; gérer les erreurs",
+                      "mots_cles": "nettoyage; transformation; qualité",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI01_03",
+                  "cours_id": "RES_BI_01",
+                  "chapitre_titre": "Visualisations",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI01_0301",
+                      "chapitre_id": "CH_BI01_03",
+                      "lecon_titre": "Visuels essentiels",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Créer des barres; lignes; cartes; tableaux; filtres",
+                      "mots_cles": "visuel; filtre; tableau",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_BI01_0302",
+                      "chapitre_id": "CH_BI01_03",
+                      "lecon_titre": "Rapport interactif",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Ajouter des interactions; créer des signets; concevoir un rapport clair",
+                      "mots_cles": "interaction; signet; dashboard",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_BI_02",
+              "parcours_id": "BI",
+              "cours_titre": "Cours BI - Intermediaire",
+              "niveau_cours": "Intermediaire",
+              "ressource_id_source": "RES_BI_02",
+              "chemin_pdf": "documents/BI/powerbi_intermediaire.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_BI02_01",
+                  "cours_id": "RES_BI_02",
+                  "chapitre_titre": "Modèle de données",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI02_0101",
+                      "chapitre_id": "CH_BI02_01",
+                      "lecon_titre": "Tables et relations",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Créer un modèle en étoile; définir les relations; gérer les cardinalités",
+                      "mots_cles": "modèle; relation; étoile",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_BI02_0102",
+                      "chapitre_id": "CH_BI02_01",
+                      "lecon_titre": "Dimensions et faits",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Distinguer les tables de dimensions et de faits; concevoir un modèle robuste",
+                      "mots_cles": "dimension; fait; modélisation",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI02_02",
+                  "cours_id": "RES_BI_02",
+                  "chapitre_titre": "DAX fondamental",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI02_0201",
+                      "chapitre_id": "CH_BI02_02",
+                      "lecon_titre": "Mesures et colonnes calculées",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Créer des mesures; distinguer mesure et colonne; utiliser SUM et CALCULATE",
+                      "mots_cles": "DAX; mesure; CALCULATE",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_BI02_0202",
+                      "chapitre_id": "CH_BI02_02",
+                      "lecon_titre": "Contexte de filtre",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Comprendre le contexte de ligne et de filtre; utiliser FILTER et ALL",
+                      "mots_cles": "contexte; FILTER; ALL",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI02_03",
+                  "cours_id": "RES_BI_02",
+                  "chapitre_titre": "Analyse décisionnelle",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI02_0301",
+                      "chapitre_id": "CH_BI02_03",
+                      "lecon_titre": "KPI et indicateurs",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Définir des KPI; créer des mesures de performance; comparer des périodes",
+                      "mots_cles": "KPI; performance; comparaison",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_BI02_0302",
+                      "chapitre_id": "CH_BI02_03",
+                      "lecon_titre": "Projet de modélisation",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "70",
+                      "objectifs_apprentissage": "Construire un modèle complet; créer un dashboard; justifier les choix",
+                      "mots_cles": "projet; dashboard; modélisation",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_BI_03",
+              "parcours_id": "BI",
+              "cours_titre": "Cours BI - Avance",
+              "niveau_cours": "Avance",
+              "ressource_id_source": "RES_BI_03",
+              "chemin_pdf": "documents/BI/powerbi_avance.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_BI03_01",
+                  "cours_id": "RES_BI_03",
+                  "chapitre_titre": "DAX avancé",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI03_0101",
+                      "chapitre_id": "CH_BI03_01",
+                      "lecon_titre": "Fonctions temporelles",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Utiliser DATESYTD; SAMEPERIODLASTYEAR; analyser les évolutions temporelles",
+                      "mots_cles": "DAX; temps; évolution",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    },
+                    {
+                      "lecon_id": "LES_BI03_0102",
+                      "chapitre_id": "CH_BI03_01",
+                      "lecon_titre": "Calculs complexes",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Créer des mesures dynamiques; gérer les contextes multiples; optimiser les calculs",
+                      "mots_cles": "DAX; optimisation; contexte",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI03_02",
+                  "cours_id": "RES_BI_03",
+                  "chapitre_titre": "Power BI Service",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI03_0201",
+                      "chapitre_id": "CH_BI03_02",
+                      "lecon_titre": "Publication et partage",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Publier un rapport; créer un espace de travail; partager en sécurité",
+                      "mots_cles": "publication; partage; workspace",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_BI03_0202",
+                      "chapitre_id": "CH_BI03_02",
+                      "lecon_titre": "Actualisation et gouvernance",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Configurer l'actualisation; gérer les accès; appliquer la sécurité au niveau des lignes",
+                      "mots_cles": "actualisation; sécurité; RLS",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_BI03_03",
+                  "cours_id": "RES_BI_03",
+                  "chapitre_titre": "Projet décisionnel",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_BI03_0301",
+                      "chapitre_id": "CH_BI03_03",
+                      "lecon_titre": "Architecture BI",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Concevoir une architecture; documenter le modèle; planifier le déploiement",
+                      "mots_cles": "architecture; gouvernance; BI",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    },
+                    {
+                      "lecon_id": "LES_BI03_0302",
+                      "chapitre_id": "CH_BI03_03",
+                      "lecon_titre": "Tableau de bord final",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "80",
+                      "objectifs_apprentissage": "Réaliser un dashboard complet; tester les performances; présenter les résultats",
+                      "mots_cles": "dashboard; performance; restitution",
+                      "type_evaluation": "projet",
+                      "score_minimum": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "parcours_id": "DA",
+          "domaine_id": "DOM_NUM",
+          "parcours_nom": "Data Analysis",
+          "cours": [
+            {
+              "cours_id": "RES_DA_01",
+              "parcours_id": "DA",
+              "cours_titre": "Cours DA - Debutant",
+              "niveau_cours": "Debutant",
+              "ressource_id_source": "RES_DA_01",
+              "chemin_pdf": "documents/DA/cours_excel_base.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DA01_01",
+                  "cours_id": "RES_DA_01",
+                  "chapitre_titre": "Prise en main d'Excel",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA01_0101",
+                      "chapitre_id": "CH_DA01_01",
+                      "lecon_titre": "Interface et classeurs",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "30",
+                      "objectifs_apprentissage": "Identifier l'interface; créer un classeur; enregistrer un fichier",
+                      "mots_cles": "Excel; classeur; interface",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA01_0102",
+                      "chapitre_id": "CH_DA01_01",
+                      "lecon_titre": "Saisie et mise en forme",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "30",
+                      "objectifs_apprentissage": "Saisir des données; formater des cellules; gérer les feuilles",
+                      "mots_cles": "saisie; mise en forme; cellules",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA01_02",
+                  "cours_id": "RES_DA_01",
+                  "chapitre_titre": "Formules de base",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA01_0201",
+                      "chapitre_id": "CH_DA01_02",
+                      "lecon_titre": "Opérations et références",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Utiliser les opérations; comprendre les références relatives et absolues",
+                      "mots_cles": "formules; références; opérations",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA01_0202",
+                      "chapitre_id": "CH_DA01_02",
+                      "lecon_titre": "Fonctions SOMME MOYENNE SI",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Utiliser SOMME; MOYENNE; SI et les fonctions logiques",
+                      "mots_cles": "SOMME; MOYENNE; SI",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA01_03",
+                  "cours_id": "RES_DA_01",
+                  "chapitre_titre": "Organisation des données",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA01_0301",
+                      "chapitre_id": "CH_DA01_03",
+                      "lecon_titre": "Tri et filtrage",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "30",
+                      "objectifs_apprentissage": "Trier des données; appliquer des filtres; gérer les doublons",
+                      "mots_cles": "tri; filtre; doublons",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA01_0302",
+                      "chapitre_id": "CH_DA01_03",
+                      "lecon_titre": "Tableaux et graphiques simples",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Créer un tableau structuré; insérer un graphique; interpréter un graphique",
+                      "mots_cles": "tableau; graphique; visualisation",
+                      "type_evaluation": "projet",
+                      "score_minimum": "60"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_DA_02",
+              "parcours_id": "DA",
+              "cours_titre": "Cours DA - Intermediaire",
+              "niveau_cours": "Intermediaire",
+              "ressource_id_source": "RES_DA_02",
+              "chemin_pdf": "documents/DA/cours_excel_intermediaire.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DA02_01",
+                  "cours_id": "RES_DA_02",
+                  "chapitre_titre": "Tableaux croisés dynamiques",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA02_0101",
+                      "chapitre_id": "CH_DA02_01",
+                      "lecon_titre": "Créer un TCD",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Créer un tableau croisé dynamique; choisir les champs; organiser les valeurs",
+                      "mots_cles": "TCD; analyse; agrégation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA02_0102",
+                      "chapitre_id": "CH_DA02_01",
+                      "lecon_titre": "Filtres et segments",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Utiliser les filtres; créer des segments; analyser plusieurs dimensions",
+                      "mots_cles": "filtre; segment; dimension",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA02_02",
+                  "cours_id": "RES_DA_02",
+                  "chapitre_titre": "Graphiques avancés",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA02_0201",
+                      "chapitre_id": "CH_DA02_02",
+                      "lecon_titre": "Choisir un graphique",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "35",
+                      "objectifs_apprentissage": "Choisir un graphique adapté; personnaliser les axes; ajouter des étiquettes",
+                      "mots_cles": "graphique; visualisation; axes",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA02_0202",
+                      "chapitre_id": "CH_DA02_02",
+                      "lecon_titre": "Tableaux de bord Excel",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Combiner plusieurs visuels; créer un tableau de bord; interpréter les résultats",
+                      "mots_cles": "dashboard; KPI; analyse",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA02_03",
+                  "cours_id": "RES_DA_02",
+                  "chapitre_titre": "Analyse de données",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA02_0301",
+                      "chapitre_id": "CH_DA02_03",
+                      "lecon_titre": "Recherche et consolidation",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Utiliser RECHERCHEV; XLOOKUP; consolider plusieurs feuilles",
+                      "mots_cles": "RECHERCHEV; XLOOKUP; consolidation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DA02_0302",
+                      "chapitre_id": "CH_DA02_03",
+                      "lecon_titre": "Nettoyage des données",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Supprimer les doublons; corriger les formats; préparer une base d'analyse",
+                      "mots_cles": "nettoyage; qualité; données",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_DA_03",
+              "parcours_id": "DA",
+              "cours_titre": "Cours DA - Avance",
+              "niveau_cours": "Avance",
+              "ressource_id_source": "RES_DA_03",
+              "chemin_pdf": "documents/DA/cours_excel_avance.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DA03_01",
+                  "cours_id": "RES_DA_03",
+                  "chapitre_titre": "Power Query",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA03_0101",
+                      "chapitre_id": "CH_DA03_01",
+                      "lecon_titre": "Importer et transformer",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Importer des données; appliquer des transformations; charger dans Excel",
+                      "mots_cles": "Power Query; import; transformation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DA03_0102",
+                      "chapitre_id": "CH_DA03_01",
+                      "lecon_titre": "Automatiser le nettoyage",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Créer des requêtes réutilisables; gérer les erreurs; actualiser les données",
+                      "mots_cles": "automatisation; requête; actualisation",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA03_02",
+                  "cours_id": "RES_DA_03",
+                  "chapitre_titre": "VBA pour Excel",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA03_0201",
+                      "chapitre_id": "CH_DA03_02",
+                      "lecon_titre": "Macros et éditeur VBA",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Enregistrer une macro; lire le code VBA; exécuter une macro",
+                      "mots_cles": "VBA; macro; automatisation",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DA03_0202",
+                      "chapitre_id": "CH_DA03_02",
+                      "lecon_titre": "Boucles et conditions",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Utiliser If; For; While; automatiser des traitements répétitifs",
+                      "mots_cles": "VBA; boucle; condition",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DA03_03",
+                  "cours_id": "RES_DA_03",
+                  "chapitre_titre": "Analyse avancée",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DA03_0301",
+                      "chapitre_id": "CH_DA03_03",
+                      "lecon_titre": "Modèles de simulation",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Utiliser les scénarios; la valeur cible; les tables de données",
+                      "mots_cles": "simulation; scénario; valeur cible",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DA03_0302",
+                      "chapitre_id": "CH_DA03_03",
+                      "lecon_titre": "Projet d'automatisation",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "70",
+                      "objectifs_apprentissage": "Construire un flux complet; automatiser un rapport; documenter la solution",
+                      "mots_cles": "automatisation; reporting; projet",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "parcours_id": "DS",
+          "domaine_id": "DOM_NUM",
+          "parcours_nom": "Data Science",
+          "cours": [
+            {
+              "cours_id": "RES_DS_01",
+              "parcours_id": "DS",
+              "cours_titre": "Cours DS - Debutant",
+              "niveau_cours": "Debutant",
+              "ressource_id_source": "RES_DS_01",
+              "chemin_pdf": "documents/DS/python_base.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DS01_01",
+                  "cours_id": "RES_DS_01",
+                  "chapitre_titre": "Fondamentaux Python",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS01_0101",
+                      "chapitre_id": "CH_DS01_01",
+                      "lecon_titre": "Variables et types",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Déclarer des variables; utiliser les types; convertir des valeurs",
+                      "mots_cles": "Python; variable; type",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DS01_0102",
+                      "chapitre_id": "CH_DS01_01",
+                      "lecon_titre": "Conditions et boucles",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Utiliser if; for; while; contrôler l'exécution",
+                      "mots_cles": "condition; boucle; algorithme",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS01_02",
+                  "cours_id": "RES_DS_01",
+                  "chapitre_titre": "Fonctions et structures",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS01_0201",
+                      "chapitre_id": "CH_DS01_02",
+                      "lecon_titre": "Listes et dictionnaires",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Manipuler les listes; tuples; dictionnaires; ensembles",
+                      "mots_cles": "liste; dictionnaire; structure",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DS01_0202",
+                      "chapitre_id": "CH_DS01_02",
+                      "lecon_titre": "Fonctions et modules",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Créer des fonctions; importer des modules; organiser le code",
+                      "mots_cles": "fonction; module; réutilisabilité",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS01_03",
+                  "cours_id": "RES_DS_01",
+                  "chapitre_titre": "Fichiers et erreurs",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS01_0301",
+                      "chapitre_id": "CH_DS01_03",
+                      "lecon_titre": "Lecture et écriture",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Lire un CSV; écrire un fichier; gérer les encodages",
+                      "mots_cles": "fichier; CSV; lecture",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DS01_0302",
+                      "chapitre_id": "CH_DS01_03",
+                      "lecon_titre": "Gestion des exceptions",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Utiliser try; except; finally; rendre un programme robuste",
+                      "mots_cles": "exception; erreur; robustesse",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_DS_02",
+              "parcours_id": "DS",
+              "cours_titre": "Cours DS - Intermediaire",
+              "niveau_cours": "Intermediaire",
+              "ressource_id_source": "RES_DS_02",
+              "chemin_pdf": "documents/DS/python_data_science_intermediaire.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DS02_01",
+                  "cours_id": "RES_DS_02",
+                  "chapitre_titre": "NumPy et tableaux",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS02_0101",
+                      "chapitre_id": "CH_DS02_01",
+                      "lecon_titre": "Tableaux NumPy",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Créer des tableaux; indexer; filtrer; effectuer des opérations vectorisées",
+                      "mots_cles": "NumPy; tableau; vectorisation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DS02_0102",
+                      "chapitre_id": "CH_DS02_01",
+                      "lecon_titre": "Statistiques descriptives",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Calculer moyenne; médiane; écart-type; corrélations",
+                      "mots_cles": "statistique; moyenne; corrélation",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS02_02",
+                  "cours_id": "RES_DS_02",
+                  "chapitre_titre": "Pandas",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS02_0201",
+                      "chapitre_id": "CH_DS02_02",
+                      "lecon_titre": "DataFrames et séries",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Créer un DataFrame; sélectionner; filtrer; trier les données",
+                      "mots_cles": "pandas; DataFrame; sélection",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DS02_0202",
+                      "chapitre_id": "CH_DS02_02",
+                      "lecon_titre": "Nettoyage et agrégation",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Gérer les valeurs manquantes; regrouper; agréger; joindre des tables",
+                      "mots_cles": "nettoyage; groupby; jointure",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS02_03",
+                  "cours_id": "RES_DS_02",
+                  "chapitre_titre": "Visualisation",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS02_0301",
+                      "chapitre_id": "CH_DS02_03",
+                      "lecon_titre": "Graphiques avec Matplotlib",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Créer des histogrammes; nuages de points; courbes; personnaliser les graphiques",
+                      "mots_cles": "Matplotlib; graphique; visualisation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_DS02_0302",
+                      "chapitre_id": "CH_DS02_03",
+                      "lecon_titre": "Analyse exploratoire",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Explorer un jeu de données; détecter les anomalies; formuler des hypothèses",
+                      "mots_cles": "EDA; anomalie; hypothèse",
+                      "type_evaluation": "projet",
+                      "score_minimum": "65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_DS_03",
+              "parcours_id": "DS",
+              "cours_titre": "Cours DS - Avance",
+              "niveau_cours": "Avance",
+              "ressource_id_source": "RES_DS_03",
+              "chemin_pdf": "documents/DS/data_science_avance.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_DS03_01",
+                  "cours_id": "RES_DS_03",
+                  "chapitre_titre": "Fondamentaux du ML",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS03_0101",
+                      "chapitre_id": "CH_DS03_01",
+                      "lecon_titre": "Apprentissage supervisé",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Distinguer régression et classification; comprendre train/test; éviter le surapprentissage",
+                      "mots_cles": "supervisé; train/test; overfitting",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DS03_0102",
+                      "chapitre_id": "CH_DS03_01",
+                      "lecon_titre": "Préparation des données",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Encoder les variables; normaliser; gérer le déséquilibre; créer un pipeline",
+                      "mots_cles": "encodage; normalisation; pipeline",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS03_02",
+                  "cours_id": "RES_DS_03",
+                  "chapitre_titre": "Modèles supervisés",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS03_0201",
+                      "chapitre_id": "CH_DS03_02",
+                      "lecon_titre": "Régression linéaire et logistique",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Entraîner une régression; interpréter les coefficients; évaluer un modèle",
+                      "mots_cles": "régression; coefficient; évaluation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_DS03_0202",
+                      "chapitre_id": "CH_DS03_02",
+                      "lecon_titre": "Arbres; forêts et boosting",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Utiliser les arbres; Random Forest; XGBoost; comparer les modèles",
+                      "mots_cles": "arbre; Random Forest; XGBoost",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_DS03_03",
+                  "cours_id": "RES_DS_03",
+                  "chapitre_titre": "Évaluation et optimisation",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_DS03_0301",
+                      "chapitre_id": "CH_DS03_03",
+                      "lecon_titre": "Métriques d'évaluation",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Utiliser accuracy; précision; rappel; F1; AUC; matrice de confusion",
+                      "mots_cles": "accuracy; F1; AUC; matrice",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    },
+                    {
+                      "lecon_id": "LES_DS03_0302",
+                      "chapitre_id": "CH_DS03_03",
+                      "lecon_titre": "Validation croisée et réglage",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "65",
+                      "objectifs_apprentissage": "Appliquer la validation croisée; optimiser les hyperparamètres; sélectionner un modèle",
+                      "mots_cles": "cross-validation; hyperparamètre; GridSearch",
+                      "type_evaluation": "projet",
+                      "score_minimum": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "parcours_id": "IA",
+          "domaine_id": "DOM_NUM",
+          "parcours_nom": "Intelligence Artificielle",
+          "cours": [
+            {
+              "cours_id": "RES_IA_01",
+              "parcours_id": "IA",
+              "cours_titre": "Cours IA - Debutant",
+              "niveau_cours": "Debutant",
+              "ressource_id_source": "RES_IA_01",
+              "chemin_pdf": "documents/IA/ia_base.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_IA01_01",
+                  "cours_id": "RES_IA_01",
+                  "chapitre_titre": "Introduction à l'IA",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA01_0101",
+                      "chapitre_id": "CH_IA01_01",
+                      "lecon_titre": "Histoire et concepts",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Définir l'IA; distinguer IA; ML; deep learning; identifier les applications",
+                      "mots_cles": "IA; ML; deep learning",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_IA01_0102",
+                      "chapitre_id": "CH_IA01_01",
+                      "lecon_titre": "Types d'apprentissage",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Distinguer supervisé; non supervisé; renforcement; identifier les cas d'usage",
+                      "mots_cles": "supervisé; non supervisé; renforcement",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA01_02",
+                  "cours_id": "RES_IA_01",
+                  "chapitre_titre": "Données et IA",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA01_0201",
+                      "chapitre_id": "CH_IA01_02",
+                      "lecon_titre": "Qualité des données",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Identifier les données utiles; détecter les biais; préparer un dataset",
+                      "mots_cles": "données; biais; dataset",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_IA01_0202",
+                      "chapitre_id": "CH_IA01_02",
+                      "lecon_titre": "Éthique et limites",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "40",
+                      "objectifs_apprentissage": "Analyser les risques; la confidentialité; l'équité; la transparence",
+                      "mots_cles": "éthique; biais; confidentialité",
+                      "type_evaluation": "discussion",
+                      "score_minimum": "60"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA01_03",
+                  "cours_id": "RES_IA_01",
+                  "chapitre_titre": "Premiers modèles",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA01_0301",
+                      "chapitre_id": "CH_IA01_03",
+                      "lecon_titre": "Classification simple",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Entraîner un modèle simple; comprendre les prédictions; interpréter les résultats",
+                      "mots_cles": "classification; prédiction; modèle",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    },
+                    {
+                      "lecon_id": "LES_IA01_0302",
+                      "chapitre_id": "CH_IA01_03",
+                      "lecon_titre": "Évaluation initiale",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "45",
+                      "objectifs_apprentissage": "Calculer l'accuracy; lire une matrice de confusion; identifier les erreurs",
+                      "mots_cles": "accuracy; confusion; évaluation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "60"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_IA_02",
+              "parcours_id": "IA",
+              "cours_titre": "Cours IA - Intermediaire",
+              "niveau_cours": "Intermediaire",
+              "ressource_id_source": "RES_IA_02",
+              "chemin_pdf": "documents/IA/machine_learning_intermediaire.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_IA02_01",
+                  "cours_id": "RES_IA_02",
+                  "chapitre_titre": "Régression et classification",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA02_0101",
+                      "chapitre_id": "CH_IA02_01",
+                      "lecon_titre": "Régression linéaire et multiple",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Entraîner une régression; évaluer RMSE et R2; interpréter les variables",
+                      "mots_cles": "régression; RMSE; R2",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_IA02_0102",
+                      "chapitre_id": "CH_IA02_01",
+                      "lecon_titre": "Régression logistique",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Entraîner une classification binaire; interpréter les probabilités; évaluer les performances",
+                      "mots_cles": "logistique; probabilité; classification",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA02_02",
+                  "cours_id": "RES_IA_02",
+                  "chapitre_titre": "Arbres et ensembles",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA02_0201",
+                      "chapitre_id": "CH_IA02_02",
+                      "lecon_titre": "Arbres de décision",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Construire un arbre; comprendre les critères de division; visualiser l'arbre",
+                      "mots_cles": "arbre; décision; division",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_IA02_0202",
+                      "chapitre_id": "CH_IA02_02",
+                      "lecon_titre": "Random Forest et boosting",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Utiliser Random Forest; XGBoost; LightGBM; comparer les performances",
+                      "mots_cles": "Random Forest; XGBoost; boosting",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA02_03",
+                  "cours_id": "RES_IA_02",
+                  "chapitre_titre": "Sélection et validation",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA02_0301",
+                      "chapitre_id": "CH_IA02_03",
+                      "lecon_titre": "Sélection des variables",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "50",
+                      "objectifs_apprentissage": "Identifier les variables importantes; réduire la dimensionnalité; éviter le bruit",
+                      "mots_cles": "feature importance; sélection; dimension",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_IA02_0302",
+                      "chapitre_id": "CH_IA02_03",
+                      "lecon_titre": "Validation croisée",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Appliquer k-fold; comparer les modèles; choisir le meilleur modèle",
+                      "mots_cles": "k-fold; validation; comparaison",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "cours_id": "RES_IA_03",
+              "parcours_id": "IA",
+              "cours_titre": "Cours IA - Avance",
+              "niveau_cours": "Avance",
+              "ressource_id_source": "RES_IA_03",
+              "chemin_pdf": "documents/IA/deep_learning_avance.pdf",
+              "origine_titre": "PROPOSE_A_VERIFIER",
+              "origine_pdf": "INFERE_DU_NOM_PDF_A_VERIFIER",
+              "chapitres": [
+                {
+                  "chapitre_id": "CH_IA03_01",
+                  "cours_id": "RES_IA_03",
+                  "chapitre_titre": "Réseaux de neurones",
+                  "chapitre_ordre": "1",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA03_0101",
+                      "chapitre_id": "CH_IA03_01",
+                      "lecon_titre": "Perceptron et fonctions d'activation",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "55",
+                      "objectifs_apprentissage": "Comprendre le neurone; les poids; les activations; la propagation",
+                      "mots_cles": "neurone; activation; propagation",
+                      "type_evaluation": "quiz",
+                      "score_minimum": "65"
+                    },
+                    {
+                      "lecon_id": "LES_IA03_0102",
+                      "chapitre_id": "CH_IA03_01",
+                      "lecon_titre": "Rétropropagation",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Comprendre la loss; la descente de gradient; la rétropropagation",
+                      "mots_cles": "gradient; loss; backpropagation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA03_02",
+                  "cours_id": "RES_IA_03",
+                  "chapitre_titre": "Deep Learning pratique",
+                  "chapitre_ordre": "2",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA03_0201",
+                      "chapitre_id": "CH_IA03_02",
+                      "lecon_titre": "Réseaux denses",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Construire un MLP; entraîner un modèle; surveiller la validation",
+                      "mots_cles": "MLP; entraînement; validation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    },
+                    {
+                      "lecon_id": "LES_IA03_0202",
+                      "chapitre_id": "CH_IA03_02",
+                      "lecon_titre": "CNN pour images",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "65",
+                      "objectifs_apprentissage": "Comprendre les convolutions; construire un CNN; évaluer un modèle d'image",
+                      "mots_cles": "CNN; convolution; image",
+                      "type_evaluation": "projet",
+                      "score_minimum": "70"
+                    }
+                  ]
+                },
+                {
+                  "chapitre_id": "CH_IA03_03",
+                  "cours_id": "RES_IA_03",
+                  "chapitre_titre": "Optimisation et déploiement",
+                  "chapitre_ordre": "3",
+                  "lecons": [
+                    {
+                      "lecon_id": "LES_IA03_0301",
+                      "chapitre_id": "CH_IA03_03",
+                      "lecon_titre": "Régularisation et optimisation",
+                      "lecon_ordre": "1",
+                      "duree_minutes": "60",
+                      "objectifs_apprentissage": "Utiliser dropout; batch normalization; early stopping; optimiser l'apprentissage",
+                      "mots_cles": "dropout; régularisation; optimisation",
+                      "type_evaluation": "exercice",
+                      "score_minimum": "70"
+                    },
+                    {
+                      "lecon_id": "LES_IA03_0302",
+                      "chapitre_id": "CH_IA03_03",
+                      "lecon_titre": "Déploiement d'un modèle",
+                      "lecon_ordre": "2",
+                      "duree_minutes": "75",
+                      "objectifs_apprentissage": "Sauvegarder un modèle; créer une API; évaluer en production",
+                      "mots_cles": "déploiement; API; production",
+                      "type_evaluation": "projet",
+                      "score_minimum": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

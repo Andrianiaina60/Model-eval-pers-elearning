@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS03_0102",
+  "chapitre_id": "CH_DS03_01",
+  "lecon_titre": "Préparation des données",
+  "lecon_ordre": "2",
+  "duree_minutes": "55",
+  "objectifs_apprentissage": "Encoder les variables; normaliser; gérer le déséquilibre; créer un pipeline",
+  "mots_cles": "encodage; normalisation; pipeline",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

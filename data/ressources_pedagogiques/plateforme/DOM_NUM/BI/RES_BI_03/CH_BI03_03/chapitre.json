@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI03_03",
+  "cours_id": "RES_BI_03",
+  "chapitre_titre": "Projet décisionnel",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Concevoir une architecture; documenter le modèle; planifier le déploiement",
+    "Réaliser un dashboard complet; tester les performances; présenter les résultats"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "architecture; gouvernance; BI",
+    "dashboard; performance; restitution"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

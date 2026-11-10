@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA02_0302",
+  "chapitre_id": "CH_IA02_03",
+  "lecon_titre": "Validation croisée",
+  "lecon_ordre": "2",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Appliquer k-fold; comparer les modèles; choisir le meilleur modèle",
+  "mots_cles": "k-fold; validation; comparaison",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

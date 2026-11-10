@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA02_02",
+  "cours_id": "RES_DA_02",
+  "chapitre_titre": "Graphiques avancés",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Choisir un graphique adapté; personnaliser les axes; ajouter des étiquettes",
+    "Combiner plusieurs visuels; créer un tableau de bord; interpréter les résultats"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "graphique; visualisation; axes",
+    "dashboard; KPI; analyse"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

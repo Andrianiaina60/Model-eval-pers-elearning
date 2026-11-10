@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI01_0101",
+  "chapitre_id": "CH_BI01_01",
+  "lecon_titre": "Écosystème Power BI",
+  "lecon_ordre": "1",
+  "duree_minutes": "30",
+  "objectifs_apprentissage": "Identifier Power BI Desktop; Service; Mobile; comprendre le flux BI",
+  "mots_cles": "Power BI; BI; écosystème",
+  "type_evaluation": "quiz",
+  "score_minimum": "60"
+}

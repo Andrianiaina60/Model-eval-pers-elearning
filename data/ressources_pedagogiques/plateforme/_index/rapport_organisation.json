@@ -1,0 +1,30 @@
+{
+  "mode": "LIENS_SYMBOLIQUES_PDF",
+  "arborescence": "data/ressources_pedagogiques/plateforme",
+  "n_domaines": 1,
+  "n_parcours": 4,
+  "n_cours": 12,
+  "n_chapitres": 36,
+  "n_lecons": 72,
+  "n_pdf_associes": 12,
+  "n_pdf_non_associes": 0,
+  "pre_requis_documentes": false,
+  "source_csv_conserves": true,
+  "source_pdf_conserves": true,
+  "recommandation_uniquement_chapitre": true,
+  "avertissements": [
+    "Cours RES_BI_01 absent de course_resources.csv",
+    "Cours RES_BI_02 absent de course_resources.csv",
+    "Cours RES_BI_03 absent de course_resources.csv",
+    "Cours RES_DA_01 absent de course_resources.csv",
+    "Cours RES_DA_02 absent de course_resources.csv",
+    "Cours RES_DA_03 absent de course_resources.csv",
+    "Cours RES_DS_01 absent de course_resources.csv",
+    "Cours RES_DS_02 absent de course_resources.csv",
+    "Cours RES_DS_03 absent de course_resources.csv",
+    "Cours RES_IA_01 absent de course_resources.csv",
+    "Cours RES_IA_02 absent de course_resources.csv",
+    "Cours RES_IA_03 absent de course_resources.csv",
+    "prerequis_chapitres.csv vide : aucune relation de prerequis inferable"
+  ]
+}

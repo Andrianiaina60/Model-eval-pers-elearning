@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA02_0102",
+  "chapitre_id": "CH_IA02_01",
+  "lecon_titre": "Régression logistique",
+  "lecon_ordre": "2",
+  "duree_minutes": "55",
+  "objectifs_apprentissage": "Entraîner une classification binaire; interpréter les probabilités; évaluer les performances",
+  "mots_cles": "logistique; probabilité; classification",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

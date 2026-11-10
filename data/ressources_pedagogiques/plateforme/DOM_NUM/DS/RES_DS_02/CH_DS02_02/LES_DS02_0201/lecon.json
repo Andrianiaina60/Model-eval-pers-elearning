@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS02_0201",
+  "chapitre_id": "CH_DS02_02",
+  "lecon_titre": "DataFrames et séries",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Créer un DataFrame; sélectionner; filtrer; trier les données",
+  "mots_cles": "pandas; DataFrame; sélection",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

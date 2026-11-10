@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA02_0101",
+  "chapitre_id": "CH_IA02_01",
+  "lecon_titre": "Régression linéaire et multiple",
+  "lecon_ordre": "1",
+  "duree_minutes": "55",
+  "objectifs_apprentissage": "Entraîner une régression; évaluer RMSE et R2; interpréter les variables",
+  "mots_cles": "régression; RMSE; R2",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

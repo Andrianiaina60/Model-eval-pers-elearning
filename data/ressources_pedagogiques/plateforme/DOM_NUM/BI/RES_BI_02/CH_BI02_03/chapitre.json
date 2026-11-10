@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI02_03",
+  "cours_id": "RES_BI_02",
+  "chapitre_titre": "Analyse décisionnelle",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Définir des KPI; créer des mesures de performance; comparer des périodes",
+    "Construire un modèle complet; créer un dashboard; justifier les choix"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "KPI; performance; comparaison",
+    "projet; dashboard; modélisation"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI03_0301",
+  "chapitre_id": "CH_BI03_03",
+  "lecon_titre": "Architecture BI",
+  "lecon_ordre": "1",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Concevoir une architecture; documenter le modèle; planifier le déploiement",
+  "mots_cles": "architecture; gouvernance; BI",
+  "type_evaluation": "exercice",
+  "score_minimum": "70"
+}

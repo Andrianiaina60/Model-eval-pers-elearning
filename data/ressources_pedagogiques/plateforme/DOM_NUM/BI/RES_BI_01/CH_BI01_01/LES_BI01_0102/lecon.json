@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI01_0102",
+  "chapitre_id": "CH_BI01_01",
+  "lecon_titre": "Premier rapport",
+  "lecon_ordre": "2",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Importer un fichier; créer des visuels; publier un rapport simple",
+  "mots_cles": "rapport; visuel; import",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

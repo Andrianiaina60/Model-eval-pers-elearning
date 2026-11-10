@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA02_01",
+  "cours_id": "RES_DA_02",
+  "chapitre_titre": "Tableaux croisés dynamiques",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Créer un tableau croisé dynamique; choisir les champs; organiser les valeurs",
+    "Utiliser les filtres; créer des segments; analyser plusieurs dimensions"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "TCD; analyse; agrégation",
+    "filtre; segment; dimension"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

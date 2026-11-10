@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA03_01",
+  "cours_id": "RES_IA_03",
+  "chapitre_titre": "Réseaux de neurones",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Comprendre le neurone; les poids; les activations; la propagation",
+    "Comprendre la loss; la descente de gradient; la rétropropagation"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "neurone; activation; propagation",
+    "gradient; loss; backpropagation"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

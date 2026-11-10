@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA02_02",
+  "cours_id": "RES_IA_02",
+  "chapitre_titre": "Arbres et ensembles",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Construire un arbre; comprendre les critères de division; visualiser l'arbre",
+    "Utiliser Random Forest; XGBoost; LightGBM; comparer les performances"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "arbre; décision; division",
+    "Random Forest; XGBoost; boosting"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

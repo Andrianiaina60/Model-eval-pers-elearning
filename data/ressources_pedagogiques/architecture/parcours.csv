@@ -1,0 +1,5 @@
+﻿parcours_id,domaine_id,parcours_nom
+BI,DOM_NUM,Business Intelligence
+DA,DOM_NUM,Data Analysis
+DS,DOM_NUM,Data Science
+IA,DOM_NUM,Intelligence Artificielle

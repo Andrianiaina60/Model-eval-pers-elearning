@@ -1,0 +1,73 @@
+﻿lecon_id,chapitre_id,lecon_titre,lecon_ordre,duree_minutes,objectifs_apprentissage,mots_cles,type_evaluation,score_minimum
+LES_BI01_0101,CH_BI01_01,Écosystème Power BI,1,30,Identifier Power BI Desktop; Service; Mobile; comprendre le flux BI,Power BI; BI; écosystème,quiz,60
+LES_BI01_0102,CH_BI01_01,Premier rapport,2,40,Importer un fichier; créer des visuels; publier un rapport simple,rapport; visuel; import,exercice,60
+LES_BI01_0201,CH_BI01_02,Connexion aux données,1,40,Se connecter à Excel; CSV; base de données; comprendre les connecteurs,connexion; source; connecteur,exercice,60
+LES_BI01_0202,CH_BI01_02,Nettoyage et transformation,2,45,Nettoyer les colonnes; modifier les types; gérer les erreurs,nettoyage; transformation; qualité,exercice,65
+LES_BI01_0301,CH_BI01_03,Visuels essentiels,1,40,Créer des barres; lignes; cartes; tableaux; filtres,visuel; filtre; tableau,exercice,60
+LES_BI01_0302,CH_BI01_03,Rapport interactif,2,45,Ajouter des interactions; créer des signets; concevoir un rapport clair,interaction; signet; dashboard,projet,65
+LES_BI02_0101,CH_BI02_01,Tables et relations,1,45,Créer un modèle en étoile; définir les relations; gérer les cardinalités,modèle; relation; étoile,exercice,65
+LES_BI02_0102,CH_BI02_01,Dimensions et faits,2,45,Distinguer les tables de dimensions et de faits; concevoir un modèle robuste,dimension; fait; modélisation,quiz,65
+LES_BI02_0201,CH_BI02_02,Mesures et colonnes calculées,1,50,Créer des mesures; distinguer mesure et colonne; utiliser SUM et CALCULATE,DAX; mesure; CALCULATE,exercice,65
+LES_BI02_0202,CH_BI02_02,Contexte de filtre,2,55,Comprendre le contexte de ligne et de filtre; utiliser FILTER et ALL,contexte; FILTER; ALL,quiz,70
+LES_BI02_0301,CH_BI02_03,KPI et indicateurs,1,45,Définir des KPI; créer des mesures de performance; comparer des périodes,KPI; performance; comparaison,exercice,65
+LES_BI02_0302,CH_BI02_03,Projet de modélisation,2,70,Construire un modèle complet; créer un dashboard; justifier les choix,projet; dashboard; modélisation,projet,70
+LES_BI03_0101,CH_BI03_01,Fonctions temporelles,1,55,Utiliser DATESYTD; SAMEPERIODLASTYEAR; analyser les évolutions temporelles,DAX; temps; évolution,exercice,70
+LES_BI03_0102,CH_BI03_01,Calculs complexes,2,60,Créer des mesures dynamiques; gérer les contextes multiples; optimiser les calculs,DAX; optimisation; contexte,projet,70
+LES_BI03_0201,CH_BI03_02,Publication et partage,1,45,Publier un rapport; créer un espace de travail; partager en sécurité,publication; partage; workspace,exercice,65
+LES_BI03_0202,CH_BI03_02,Actualisation et gouvernance,2,55,Configurer l'actualisation; gérer les accès; appliquer la sécurité au niveau des lignes,actualisation; sécurité; RLS,quiz,70
+LES_BI03_0301,CH_BI03_03,Architecture BI,1,60,Concevoir une architecture; documenter le modèle; planifier le déploiement,architecture; gouvernance; BI,exercice,70
+LES_BI03_0302,CH_BI03_03,Tableau de bord final,2,80,Réaliser un dashboard complet; tester les performances; présenter les résultats,dashboard; performance; restitution,projet,75
+LES_DA01_0101,CH_DA01_01,Interface et classeurs,1,30,Identifier l'interface; créer un classeur; enregistrer un fichier,Excel; classeur; interface,quiz,60
+LES_DA01_0102,CH_DA01_01,Saisie et mise en forme,2,30,Saisir des données; formater des cellules; gérer les feuilles,saisie; mise en forme; cellules,exercice,60
+LES_DA01_0201,CH_DA01_02,Opérations et références,1,40,Utiliser les opérations; comprendre les références relatives et absolues,formules; références; opérations,quiz,60
+LES_DA01_0202,CH_DA01_02,Fonctions SOMME MOYENNE SI,2,40,Utiliser SOMME; MOYENNE; SI et les fonctions logiques,SOMME; MOYENNE; SI,exercice,65
+LES_DA01_0301,CH_DA01_03,Tri et filtrage,1,30,Trier des données; appliquer des filtres; gérer les doublons,tri; filtre; doublons,exercice,60
+LES_DA01_0302,CH_DA01_03,Tableaux et graphiques simples,2,40,Créer un tableau structuré; insérer un graphique; interpréter un graphique,tableau; graphique; visualisation,projet,60
+LES_DA02_0101,CH_DA02_01,Créer un TCD,1,45,Créer un tableau croisé dynamique; choisir les champs; organiser les valeurs,TCD; analyse; agrégation,exercice,60
+LES_DA02_0102,CH_DA02_01,Filtres et segments,2,40,Utiliser les filtres; créer des segments; analyser plusieurs dimensions,filtre; segment; dimension,quiz,60
+LES_DA02_0201,CH_DA02_02,Choisir un graphique,1,35,Choisir un graphique adapté; personnaliser les axes; ajouter des étiquettes,graphique; visualisation; axes,exercice,60
+LES_DA02_0202,CH_DA02_02,Tableaux de bord Excel,2,45,Combiner plusieurs visuels; créer un tableau de bord; interpréter les résultats,dashboard; KPI; analyse,projet,65
+LES_DA02_0301,CH_DA02_03,Recherche et consolidation,1,40,Utiliser RECHERCHEV; XLOOKUP; consolider plusieurs feuilles,RECHERCHEV; XLOOKUP; consolidation,exercice,65
+LES_DA02_0302,CH_DA02_03,Nettoyage des données,2,40,Supprimer les doublons; corriger les formats; préparer une base d'analyse,nettoyage; qualité; données,projet,65
+LES_DA03_0101,CH_DA03_01,Importer et transformer,1,50,Importer des données; appliquer des transformations; charger dans Excel,Power Query; import; transformation,exercice,65
+LES_DA03_0102,CH_DA03_01,Automatiser le nettoyage,2,50,Créer des requêtes réutilisables; gérer les erreurs; actualiser les données,automatisation; requête; actualisation,projet,70
+LES_DA03_0201,CH_DA03_02,Macros et éditeur VBA,1,50,Enregistrer une macro; lire le code VBA; exécuter une macro,VBA; macro; automatisation,quiz,60
+LES_DA03_0202,CH_DA03_02,Boucles et conditions,2,55,Utiliser If; For; While; automatiser des traitements répétitifs,VBA; boucle; condition,exercice,70
+LES_DA03_0301,CH_DA03_03,Modèles de simulation,1,50,Utiliser les scénarios; la valeur cible; les tables de données,simulation; scénario; valeur cible,exercice,65
+LES_DA03_0302,CH_DA03_03,Projet d'automatisation,2,70,Construire un flux complet; automatiser un rapport; documenter la solution,automatisation; reporting; projet,projet,70
+LES_DS01_0101,CH_DS01_01,Variables et types,1,40,Déclarer des variables; utiliser les types; convertir des valeurs,Python; variable; type,quiz,60
+LES_DS01_0102,CH_DS01_01,Conditions et boucles,2,45,Utiliser if; for; while; contrôler l'exécution,condition; boucle; algorithme,exercice,60
+LES_DS01_0201,CH_DS01_02,Listes et dictionnaires,1,45,Manipuler les listes; tuples; dictionnaires; ensembles,liste; dictionnaire; structure,exercice,60
+LES_DS01_0202,CH_DS01_02,Fonctions et modules,2,45,Créer des fonctions; importer des modules; organiser le code,fonction; module; réutilisabilité,exercice,65
+LES_DS01_0301,CH_DS01_03,Lecture et écriture,1,40,Lire un CSV; écrire un fichier; gérer les encodages,fichier; CSV; lecture,exercice,60
+LES_DS01_0302,CH_DS01_03,Gestion des exceptions,2,40,Utiliser try; except; finally; rendre un programme robuste,exception; erreur; robustesse,projet,65
+LES_DS02_0101,CH_DS02_01,Tableaux NumPy,1,45,Créer des tableaux; indexer; filtrer; effectuer des opérations vectorisées,NumPy; tableau; vectorisation,exercice,60
+LES_DS02_0102,CH_DS02_01,Statistiques descriptives,2,45,Calculer moyenne; médiane; écart-type; corrélations,statistique; moyenne; corrélation,quiz,60
+LES_DS02_0201,CH_DS02_02,DataFrames et séries,1,50,Créer un DataFrame; sélectionner; filtrer; trier les données,pandas; DataFrame; sélection,exercice,65
+LES_DS02_0202,CH_DS02_02,Nettoyage et agrégation,2,55,Gérer les valeurs manquantes; regrouper; agréger; joindre des tables,nettoyage; groupby; jointure,projet,65
+LES_DS02_0301,CH_DS02_03,Graphiques avec Matplotlib,1,45,Créer des histogrammes; nuages de points; courbes; personnaliser les graphiques,Matplotlib; graphique; visualisation,exercice,60
+LES_DS02_0302,CH_DS02_03,Analyse exploratoire,2,55,Explorer un jeu de données; détecter les anomalies; formuler des hypothèses,EDA; anomalie; hypothèse,projet,65
+LES_DS03_0101,CH_DS03_01,Apprentissage supervisé,1,50,Distinguer régression et classification; comprendre train/test; éviter le surapprentissage,supervisé; train/test; overfitting,quiz,65
+LES_DS03_0102,CH_DS03_01,Préparation des données,2,55,Encoder les variables; normaliser; gérer le déséquilibre; créer un pipeline,encodage; normalisation; pipeline,exercice,65
+LES_DS03_0201,CH_DS03_02,Régression linéaire et logistique,1,55,Entraîner une régression; interpréter les coefficients; évaluer un modèle,régression; coefficient; évaluation,exercice,65
+LES_DS03_0202,CH_DS03_02,Arbres; forêts et boosting,2,60,Utiliser les arbres; Random Forest; XGBoost; comparer les modèles,arbre; Random Forest; XGBoost,projet,70
+LES_DS03_0301,CH_DS03_03,Métriques d'évaluation,1,55,Utiliser accuracy; précision; rappel; F1; AUC; matrice de confusion,accuracy; F1; AUC; matrice,exercice,70
+LES_DS03_0302,CH_DS03_03,Validation croisée et réglage,2,65,Appliquer la validation croisée; optimiser les hyperparamètres; sélectionner un modèle,cross-validation; hyperparamètre; GridSearch,projet,75
+LES_IA01_0101,CH_IA01_01,Histoire et concepts,1,40,Définir l'IA; distinguer IA; ML; deep learning; identifier les applications,IA; ML; deep learning,quiz,60
+LES_IA01_0102,CH_IA01_01,Types d'apprentissage,2,40,Distinguer supervisé; non supervisé; renforcement; identifier les cas d'usage,supervisé; non supervisé; renforcement,quiz,60
+LES_IA01_0201,CH_IA01_02,Qualité des données,1,45,Identifier les données utiles; détecter les biais; préparer un dataset,données; biais; dataset,exercice,60
+LES_IA01_0202,CH_IA01_02,Éthique et limites,2,40,Analyser les risques; la confidentialité; l'équité; la transparence,éthique; biais; confidentialité,discussion,60
+LES_IA01_0301,CH_IA01_03,Classification simple,1,50,Entraîner un modèle simple; comprendre les prédictions; interpréter les résultats,classification; prédiction; modèle,exercice,60
+LES_IA01_0302,CH_IA01_03,Évaluation initiale,2,45,Calculer l'accuracy; lire une matrice de confusion; identifier les erreurs,accuracy; confusion; évaluation,exercice,60
+LES_IA02_0101,CH_IA02_01,Régression linéaire et multiple,1,55,Entraîner une régression; évaluer RMSE et R2; interpréter les variables,régression; RMSE; R2,exercice,65
+LES_IA02_0102,CH_IA02_01,Régression logistique,2,55,Entraîner une classification binaire; interpréter les probabilités; évaluer les performances,logistique; probabilité; classification,exercice,65
+LES_IA02_0201,CH_IA02_02,Arbres de décision,1,50,Construire un arbre; comprendre les critères de division; visualiser l'arbre,arbre; décision; division,exercice,65
+LES_IA02_0202,CH_IA02_02,Random Forest et boosting,2,60,Utiliser Random Forest; XGBoost; LightGBM; comparer les performances,Random Forest; XGBoost; boosting,projet,70
+LES_IA02_0301,CH_IA02_03,Sélection des variables,1,50,Identifier les variables importantes; réduire la dimensionnalité; éviter le bruit,feature importance; sélection; dimension,exercice,65
+LES_IA02_0302,CH_IA02_03,Validation croisée,2,60,Appliquer k-fold; comparer les modèles; choisir le meilleur modèle,k-fold; validation; comparaison,projet,70
+LES_IA03_0101,CH_IA03_01,Perceptron et fonctions d'activation,1,55,Comprendre le neurone; les poids; les activations; la propagation,neurone; activation; propagation,quiz,65
+LES_IA03_0102,CH_IA03_01,Rétropropagation,2,60,Comprendre la loss; la descente de gradient; la rétropropagation,gradient; loss; backpropagation,exercice,70
+LES_IA03_0201,CH_IA03_02,Réseaux denses,1,60,Construire un MLP; entraîner un modèle; surveiller la validation,MLP; entraînement; validation,exercice,70
+LES_IA03_0202,CH_IA03_02,CNN pour images,2,65,Comprendre les convolutions; construire un CNN; évaluer un modèle d'image,CNN; convolution; image,projet,70
+LES_IA03_0301,CH_IA03_03,Régularisation et optimisation,1,60,Utiliser dropout; batch normalization; early stopping; optimiser l'apprentissage,dropout; régularisation; optimisation,exercice,70
+LES_IA03_0302,CH_IA03_03,Déploiement d'un modèle,2,75,Sauvegarder un modèle; créer une API; évaluer en production,déploiement; API; production,projet,75

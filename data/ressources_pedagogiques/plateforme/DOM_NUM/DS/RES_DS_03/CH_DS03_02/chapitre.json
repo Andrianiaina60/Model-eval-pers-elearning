@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS03_02",
+  "cours_id": "RES_DS_03",
+  "chapitre_titre": "Modèles supervisés",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Entraîner une régression; interpréter les coefficients; évaluer un modèle",
+    "Utiliser les arbres; Random Forest; XGBoost; comparer les modèles"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "régression; coefficient; évaluation",
+    "arbre; Random Forest; XGBoost"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS01_02",
+  "cours_id": "RES_DS_01",
+  "chapitre_titre": "Fonctions et structures",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Manipuler les listes; tuples; dictionnaires; ensembles",
+    "Créer des fonctions; importer des modules; organiser le code"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "liste; dictionnaire; structure",
+    "fonction; module; réutilisabilité"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

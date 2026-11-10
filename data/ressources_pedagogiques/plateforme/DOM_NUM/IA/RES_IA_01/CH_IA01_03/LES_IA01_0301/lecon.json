@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA01_0301",
+  "chapitre_id": "CH_IA01_03",
+  "lecon_titre": "Classification simple",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Entraîner un modèle simple; comprendre les prédictions; interpréter les résultats",
+  "mots_cles": "classification; prédiction; modèle",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI01_0201",
+  "chapitre_id": "CH_BI01_02",
+  "lecon_titre": "Connexion aux données",
+  "lecon_ordre": "1",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Se connecter à Excel; CSV; base de données; comprendre les connecteurs",
+  "mots_cles": "connexion; source; connecteur",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

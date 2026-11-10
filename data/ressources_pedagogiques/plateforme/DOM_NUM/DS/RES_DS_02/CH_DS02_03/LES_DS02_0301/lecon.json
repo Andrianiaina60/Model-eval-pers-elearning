@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS02_0301",
+  "chapitre_id": "CH_DS02_03",
+  "lecon_titre": "Graphiques avec Matplotlib",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Créer des histogrammes; nuages de points; courbes; personnaliser les graphiques",
+  "mots_cles": "Matplotlib; graphique; visualisation",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

@@ -1,0 +1,13 @@
+﻿course_id,parcours_id,niveau_cours,course_title
+RES_BI_01,BI,Débutant,BI - Débutant
+RES_BI_02,BI,Intermédiaire,BI - Intermédiaire
+RES_BI_03,BI,Avancé,BI - Avancé
+RES_DA_01,DA,Débutant,DA - Débutant
+RES_DA_02,DA,Intermédiaire,DA - Intermédiaire
+RES_DA_03,DA,Avancé,DA - Avancé
+RES_DS_01,DS,Débutant,DS - Débutant
+RES_DS_02,DS,Intermédiaire,DS - Intermédiaire
+RES_DS_03,DS,Avancé,DS - Avancé
+RES_IA_01,IA,Débutant,IA - Débutant
+RES_IA_02,IA,Intermédiaire,IA - Intermédiaire
+RES_IA_03,IA,Avancé,IA - Avancé

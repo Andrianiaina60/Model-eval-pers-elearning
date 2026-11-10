@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA03_0201",
+  "chapitre_id": "CH_DA03_02",
+  "lecon_titre": "Macros et éditeur VBA",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Enregistrer une macro; lire le code VBA; exécuter une macro",
+  "mots_cles": "VBA; macro; automatisation",
+  "type_evaluation": "quiz",
+  "score_minimum": "60"
+}

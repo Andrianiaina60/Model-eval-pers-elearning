@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA01_01",
+  "cours_id": "RES_DA_01",
+  "chapitre_titre": "Prise en main d'Excel",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Identifier l'interface; créer un classeur; enregistrer un fichier",
+    "Saisir des données; formater des cellules; gérer les feuilles"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "Excel; classeur; interface",
+    "saisie; mise en forme; cellules"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

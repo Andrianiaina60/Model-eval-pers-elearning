@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI03_01",
+  "cours_id": "RES_BI_03",
+  "chapitre_titre": "DAX avancé",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Utiliser DATESYTD; SAMEPERIODLASTYEAR; analyser les évolutions temporelles",
+    "Créer des mesures dynamiques; gérer les contextes multiples; optimiser les calculs"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "DAX; temps; évolution",
+    "DAX; optimisation; contexte"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

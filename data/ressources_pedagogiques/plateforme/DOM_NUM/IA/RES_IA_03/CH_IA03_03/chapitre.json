@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA03_03",
+  "cours_id": "RES_IA_03",
+  "chapitre_titre": "Optimisation et déploiement",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Utiliser dropout; batch normalization; early stopping; optimiser l'apprentissage",
+    "Sauvegarder un modèle; créer une API; évaluer en production"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "dropout; régularisation; optimisation",
+    "déploiement; API; production"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

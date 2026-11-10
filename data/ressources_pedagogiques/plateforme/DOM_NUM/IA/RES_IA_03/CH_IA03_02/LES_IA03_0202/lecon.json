@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA03_0202",
+  "chapitre_id": "CH_IA03_02",
+  "lecon_titre": "CNN pour images",
+  "lecon_ordre": "2",
+  "duree_minutes": "65",
+  "objectifs_apprentissage": "Comprendre les convolutions; construire un CNN; évaluer un modèle d'image",
+  "mots_cles": "CNN; convolution; image",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI01_01",
+  "cours_id": "RES_BI_01",
+  "chapitre_titre": "Découverte de Power BI",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Identifier Power BI Desktop; Service; Mobile; comprendre le flux BI",
+    "Importer un fichier; créer des visuels; publier un rapport simple"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "Power BI; BI; écosystème",
+    "rapport; visuel; import"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

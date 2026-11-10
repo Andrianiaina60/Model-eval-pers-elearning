@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS03_0101",
+  "chapitre_id": "CH_DS03_01",
+  "lecon_titre": "Apprentissage supervisé",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Distinguer régression et classification; comprendre train/test; éviter le surapprentissage",
+  "mots_cles": "supervisé; train/test; overfitting",
+  "type_evaluation": "quiz",
+  "score_minimum": "65"
+}

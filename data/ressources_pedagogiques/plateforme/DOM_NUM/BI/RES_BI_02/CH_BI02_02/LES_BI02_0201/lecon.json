@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI02_0201",
+  "chapitre_id": "CH_BI02_02",
+  "lecon_titre": "Mesures et colonnes calculées",
+  "lecon_ordre": "1",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Créer des mesures; distinguer mesure et colonne; utiliser SUM et CALCULATE",
+  "mots_cles": "DAX; mesure; CALCULATE",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

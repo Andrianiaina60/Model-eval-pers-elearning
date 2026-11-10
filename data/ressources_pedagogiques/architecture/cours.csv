@@ -1,0 +1,13 @@
+﻿cours_id,parcours_id,cours_titre,niveau_cours,ressource_id_source,chemin_pdf,origine_titre,origine_pdf
+RES_BI_01,BI,Cours BI - Debutant,Debutant,RES_BI_01,documents/BI/powerbi_base.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_BI_02,BI,Cours BI - Intermediaire,Intermediaire,RES_BI_02,documents/BI/powerbi_intermediaire.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_BI_03,BI,Cours BI - Avance,Avance,RES_BI_03,documents/BI/powerbi_avance.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DA_01,DA,Cours DA - Debutant,Debutant,RES_DA_01,documents/DA/cours_excel_base.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DA_02,DA,Cours DA - Intermediaire,Intermediaire,RES_DA_02,documents/DA/cours_excel_intermediaire.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DA_03,DA,Cours DA - Avance,Avance,RES_DA_03,documents/DA/cours_excel_avance.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DS_01,DS,Cours DS - Debutant,Debutant,RES_DS_01,documents/DS/python_base.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DS_02,DS,Cours DS - Intermediaire,Intermediaire,RES_DS_02,documents/DS/python_data_science_intermediaire.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_DS_03,DS,Cours DS - Avance,Avance,RES_DS_03,documents/DS/data_science_avance.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_IA_01,IA,Cours IA - Debutant,Debutant,RES_IA_01,documents/IA/ia_base.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_IA_02,IA,Cours IA - Intermediaire,Intermediaire,RES_IA_02,documents/IA/machine_learning_intermediaire.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER
+RES_IA_03,IA,Cours IA - Avance,Avance,RES_IA_03,documents/IA/deep_learning_avance.pdf,PROPOSE_A_VERIFIER,INFERE_DU_NOM_PDF_A_VERIFIER

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI02_02",
+  "cours_id": "RES_BI_02",
+  "chapitre_titre": "DAX fondamental",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Créer des mesures; distinguer mesure et colonne; utiliser SUM et CALCULATE",
+    "Comprendre le contexte de ligne et de filtre; utiliser FILTER et ALL"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "DAX; mesure; CALCULATE",
+    "contexte; FILTER; ALL"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

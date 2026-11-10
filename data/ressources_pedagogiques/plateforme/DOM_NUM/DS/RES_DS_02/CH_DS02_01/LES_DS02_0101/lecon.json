@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS02_0101",
+  "chapitre_id": "CH_DS02_01",
+  "lecon_titre": "Tableaux NumPy",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Créer des tableaux; indexer; filtrer; effectuer des opérations vectorisées",
+  "mots_cles": "NumPy; tableau; vectorisation",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

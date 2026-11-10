@@ -1,0 +1,30 @@
+{
+  "mode": "NON_DESTRUCTIF",
+  "source_lecons": "data/ressources_pedagogiques/chapitres_lecons.csv",
+  "source_cours_presente": true,
+  "source_prerequis_presente": true,
+  "n_domaines": 1,
+  "n_parcours": 4,
+  "n_cours": 12,
+  "n_chapitres": 36,
+  "n_lecons": 72,
+  "n_documents_pdf_associes": 12,
+  "proposition_domaine": true,
+  "erreurs": [],
+  "avertissements": [
+    "Cours RES_BI_01 absent de course_resources.csv",
+    "Cours RES_BI_02 absent de course_resources.csv",
+    "Cours RES_BI_03 absent de course_resources.csv",
+    "Cours RES_DA_01 absent de course_resources.csv",
+    "Cours RES_DA_02 absent de course_resources.csv",
+    "Cours RES_DA_03 absent de course_resources.csv",
+    "Cours RES_DS_01 absent de course_resources.csv",
+    "Cours RES_DS_02 absent de course_resources.csv",
+    "Cours RES_DS_03 absent de course_resources.csv",
+    "Cours RES_IA_01 absent de course_resources.csv",
+    "Cours RES_IA_02 absent de course_resources.csv",
+    "Cours RES_IA_03 absent de course_resources.csv",
+    "prerequis_chapitres.csv vide : aucune relation de prerequis inferable"
+  ],
+  "note": "Les noms de domaines par defaut sont proposes; aucune evaluation ni mapping question-lecon n'est cree automatiquement."
+}

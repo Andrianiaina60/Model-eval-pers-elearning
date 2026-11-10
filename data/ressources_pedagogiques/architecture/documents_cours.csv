@@ -1,0 +1,13 @@
+﻿document_id,cours_id,chemin_pdf,format,origine_pdf
+DOC_RES_BI_01,RES_BI_01,documents/BI/powerbi_base.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_BI_02,RES_BI_02,documents/BI/powerbi_intermediaire.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_BI_03,RES_BI_03,documents/BI/powerbi_avance.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DA_01,RES_DA_01,documents/DA/cours_excel_base.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DA_02,RES_DA_02,documents/DA/cours_excel_intermediaire.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DA_03,RES_DA_03,documents/DA/cours_excel_avance.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DS_01,RES_DS_01,documents/DS/python_base.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DS_02,RES_DS_02,documents/DS/python_data_science_intermediaire.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_DS_03,RES_DS_03,documents/DS/data_science_avance.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_IA_01,RES_IA_01,documents/IA/ia_base.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_IA_02,RES_IA_02,documents/IA/machine_learning_intermediaire.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER
+DOC_RES_IA_03,RES_IA_03,documents/IA/deep_learning_avance.pdf,PDF,INFERE_DU_NOM_PDF_A_VERIFIER

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS03_01",
+  "cours_id": "RES_DS_03",
+  "chapitre_titre": "Fondamentaux du ML",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Distinguer régression et classification; comprendre train/test; éviter le surapprentissage",
+    "Encoder les variables; normaliser; gérer le déséquilibre; créer un pipeline"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "supervisé; train/test; overfitting",
+    "encodage; normalisation; pipeline"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

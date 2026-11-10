@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI03_0102",
+  "chapitre_id": "CH_BI03_01",
+  "lecon_titre": "Calculs complexes",
+  "lecon_ordre": "2",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Créer des mesures dynamiques; gérer les contextes multiples; optimiser les calculs",
+  "mots_cles": "DAX; optimisation; contexte",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

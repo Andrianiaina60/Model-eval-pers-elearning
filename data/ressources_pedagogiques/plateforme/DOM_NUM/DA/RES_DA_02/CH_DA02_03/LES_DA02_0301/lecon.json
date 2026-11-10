@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA02_0301",
+  "chapitre_id": "CH_DA02_03",
+  "lecon_titre": "Recherche et consolidation",
+  "lecon_ordre": "1",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Utiliser RECHERCHEV; XLOOKUP; consolider plusieurs feuilles",
+  "mots_cles": "RECHERCHEV; XLOOKUP; consolidation",
+  "type_evaluation": "exercice",
+  "score_minimum": "65"
+}

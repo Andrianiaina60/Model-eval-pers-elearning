@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA03_02",
+  "cours_id": "RES_IA_03",
+  "chapitre_titre": "Deep Learning pratique",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Construire un MLP; entraîner un modèle; surveiller la validation",
+    "Comprendre les convolutions; construire un CNN; évaluer un modèle d'image"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "MLP; entraînement; validation",
+    "CNN; convolution; image"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

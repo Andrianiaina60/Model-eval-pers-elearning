@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DS01_0301",
+  "chapitre_id": "CH_DS01_03",
+  "lecon_titre": "Lecture et écriture",
+  "lecon_ordre": "1",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Lire un CSV; écrire un fichier; gérer les encodages",
+  "mots_cles": "fichier; CSV; lecture",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

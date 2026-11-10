@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI03_02",
+  "cours_id": "RES_BI_03",
+  "chapitre_titre": "Power BI Service",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Publier un rapport; créer un espace de travail; partager en sécurité",
+    "Configurer l'actualisation; gérer les accès; appliquer la sécurité au niveau des lignes"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "publication; partage; workspace",
+    "actualisation; sécurité; RLS"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA03_0302",
+  "chapitre_id": "CH_DA03_03",
+  "lecon_titre": "Projet d'automatisation",
+  "lecon_ordre": "2",
+  "duree_minutes": "70",
+  "objectifs_apprentissage": "Construire un flux complet; automatiser un rapport; documenter la solution",
+  "mots_cles": "automatisation; reporting; projet",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

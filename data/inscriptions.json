@@ -22,7 +22,12 @@
     "Disponibilité": [
       "En semaine - Matin"
     ],
-    "Source info": "LinkedIn"
+    "Source info": "Linkedin",
+    "ScoreRecommendation" : 
+        "da": 1,
+        "bi": 4,
+        "ds": 2,
+        "ai": 1,
   },
   {
     "CreatedAt": "2026-04-01 00:36:16+00:00",

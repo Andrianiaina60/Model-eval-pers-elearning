@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA03_0302",
+  "chapitre_id": "CH_IA03_03",
+  "lecon_titre": "Déploiement d'un modèle",
+  "lecon_ordre": "2",
+  "duree_minutes": "75",
+  "objectifs_apprentissage": "Sauvegarder un modèle; créer une API; évaluer en production",
+  "mots_cles": "déploiement; API; production",
+  "type_evaluation": "projet",
+  "score_minimum": "75"
+}

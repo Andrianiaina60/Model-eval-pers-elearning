@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DS01_01",
+  "cours_id": "RES_DS_01",
+  "chapitre_titre": "Fondamentaux Python",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Déclarer des variables; utiliser les types; convertir des valeurs",
+    "Utiliser if; for; while; contrôler l'exécution"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "Python; variable; type",
+    "condition; boucle; algorithme"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

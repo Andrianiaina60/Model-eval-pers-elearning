@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA02_03",
+  "cours_id": "RES_IA_02",
+  "chapitre_titre": "Sélection et validation",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Identifier les variables importantes; réduire la dimensionnalité; éviter le bruit",
+    "Appliquer k-fold; comparer les modèles; choisir le meilleur modèle"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "feature importance; sélection; dimension",
+    "k-fold; validation; comparaison"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

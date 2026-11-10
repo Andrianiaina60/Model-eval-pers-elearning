@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_BI02_0102",
+  "chapitre_id": "CH_BI02_01",
+  "lecon_titre": "Dimensions et faits",
+  "lecon_ordre": "2",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Distinguer les tables de dimensions et de faits; concevoir un modèle robuste",
+  "mots_cles": "dimension; fait; modélisation",
+  "type_evaluation": "quiz",
+  "score_minimum": "65"
+}

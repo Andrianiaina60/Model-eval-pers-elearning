@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA01_0302",
+  "chapitre_id": "CH_IA01_03",
+  "lecon_titre": "Évaluation initiale",
+  "lecon_ordre": "2",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Calculer l'accuracy; lire une matrice de confusion; identifier les erreurs",
+  "mots_cles": "accuracy; confusion; évaluation",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

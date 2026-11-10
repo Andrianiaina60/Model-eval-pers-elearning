@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA01_0201",
+  "chapitre_id": "CH_IA01_02",
+  "lecon_titre": "Qualité des données",
+  "lecon_ordre": "1",
+  "duree_minutes": "45",
+  "objectifs_apprentissage": "Identifier les données utiles; détecter les biais; préparer un dataset",
+  "mots_cles": "données; biais; dataset",
+  "type_evaluation": "exercice",
+  "score_minimum": "60"
+}

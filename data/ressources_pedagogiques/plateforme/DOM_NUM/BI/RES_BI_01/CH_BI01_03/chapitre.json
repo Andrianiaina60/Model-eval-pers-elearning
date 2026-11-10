@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI01_03",
+  "cours_id": "RES_BI_01",
+  "chapitre_titre": "Visualisations",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Créer des barres; lignes; cartes; tableaux; filtres",
+    "Ajouter des interactions; créer des signets; concevoir un rapport clair"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "visuel; filtre; tableau",
+    "interaction; signet; dashboard"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

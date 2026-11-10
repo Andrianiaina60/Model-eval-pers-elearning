@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA01_0101",
+  "chapitre_id": "CH_IA01_01",
+  "lecon_titre": "Histoire et concepts",
+  "lecon_ordre": "1",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Définir l'IA; distinguer IA; ML; deep learning; identifier les applications",
+  "mots_cles": "IA; ML; deep learning",
+  "type_evaluation": "quiz",
+  "score_minimum": "60"
+}

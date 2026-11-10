@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA02_0202",
+  "chapitre_id": "CH_IA02_02",
+  "lecon_titre": "Random Forest et boosting",
+  "lecon_ordre": "2",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Utiliser Random Forest; XGBoost; LightGBM; comparer les performances",
+  "mots_cles": "Random Forest; XGBoost; boosting",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

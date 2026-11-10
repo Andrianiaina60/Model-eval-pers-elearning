@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA03_0102",
+  "chapitre_id": "CH_DA03_01",
+  "lecon_titre": "Automatiser le nettoyage",
+  "lecon_ordre": "2",
+  "duree_minutes": "50",
+  "objectifs_apprentissage": "Créer des requêtes réutilisables; gérer les erreurs; actualiser les données",
+  "mots_cles": "automatisation; requête; actualisation",
+  "type_evaluation": "projet",
+  "score_minimum": "70"
+}

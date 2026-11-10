@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_DA02_0302",
+  "chapitre_id": "CH_DA02_03",
+  "lecon_titre": "Nettoyage des données",
+  "lecon_ordre": "2",
+  "duree_minutes": "40",
+  "objectifs_apprentissage": "Supprimer les doublons; corriger les formats; préparer une base d'analyse",
+  "mots_cles": "nettoyage; qualité; données",
+  "type_evaluation": "projet",
+  "score_minimum": "65"
+}

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_IA02_01",
+  "cours_id": "RES_IA_02",
+  "chapitre_titre": "Régression et classification",
+  "chapitre_ordre": "1",
+  "objectifs_issus_des_lecons": [
+    "Entraîner une régression; évaluer RMSE et R2; interpréter les variables",
+    "Entraîner une classification binaire; interpréter les probabilités; évaluer les performances"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "régression; RMSE; R2",
+    "logistique; probabilité; classification"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

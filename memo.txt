@@ -43,4 +43,23 @@ jupyter notebook
 jupyter lab
 
 
+===================
+lance streamlit:python -m streamlit run app.py
 
+=================================================
+Récapitulatif des 5 comptes
+
+Rôle	E-mail	Identifiant	Ce qu’il voit
+Admin	admin@gmail.com	ADMIN-01	Tous les parcours et les 11 pages
+Enseignant DA	da@gmail.com	ENS-DA-01	Parcours DA seulement
+Enseignant BI	bi@gmail.com	ENS-BI-01	Parcours BI seulement
+Enseignant DS	ds@gmail.com	ENS-DS-01	Parcours DS seulement
+Enseignant IA	ia@gmail.com	ENS-IA-01	Parcours IA seulement
+
+python creer_enseignant.py --role admin --email admin@gmail.com --nom "Chercheur"
+python creer_enseignant.py --email da@gmail.com --nom "Enseignant DA" --parcours DA
+python creer_enseignant.py --email bi@gmail.com --nom "Enseignant BI" --parcours BI
+python creer_enseignant.py --email ds@gmail.com --nom "Enseignant DS" --parcours DS
+python creer_enseignant.py --email ia@gmail.com --nom "Enseignant IA" --parcours IA
+admin123
+streamlit run app.py

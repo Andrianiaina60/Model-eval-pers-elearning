@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_BI01_02",
+  "cours_id": "RES_BI_01",
+  "chapitre_titre": "Power Query",
+  "chapitre_ordre": "2",
+  "objectifs_issus_des_lecons": [
+    "Se connecter à Excel; CSV; base de données; comprendre les connecteurs",
+    "Nettoyer les colonnes; modifier les types; gérer les erreurs"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "connexion; source; connecteur",
+    "nettoyage; transformation; qualité"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

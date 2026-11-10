@@ -1,0 +1,11 @@
+{
+  "lecon_id": "LES_IA03_0201",
+  "chapitre_id": "CH_IA03_02",
+  "lecon_titre": "Réseaux denses",
+  "lecon_ordre": "1",
+  "duree_minutes": "60",
+  "objectifs_apprentissage": "Construire un MLP; entraîner un modèle; surveiller la validation",
+  "mots_cles": "MLP; entraînement; validation",
+  "type_evaluation": "exercice",
+  "score_minimum": "70"
+}

@@ -1,0 +1,15 @@
+{
+  "chapitre_id": "CH_DA03_03",
+  "cours_id": "RES_DA_03",
+  "chapitre_titre": "Analyse avancée",
+  "chapitre_ordre": "3",
+  "objectifs_issus_des_lecons": [
+    "Utiliser les scénarios; la valeur cible; les tables de données",
+    "Construire un flux complet; automatiser un rapport; documenter la solution"
+  ],
+  "mots_cles_issus_des_lecons": [
+    "simulation; scénario; valeur cible",
+    "automatisation; reporting; projet"
+  ],
+  "statut_recommandation": "CANDIDAT_A_EVALUER"
+}

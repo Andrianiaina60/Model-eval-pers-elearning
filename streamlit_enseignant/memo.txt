@@ -1,0 +1,43 @@
+source .venv/bin/activate
+cd streamlit_enseignant
+python -m streamlit run app.py
+
+###1. Activer l'environnement Python
+cd ~/projet/Model-eval-pers-elearning
+source .venv/bin/activate
+
+###2. Vérifier les fichiers et exécuter les tests (résultat attendu pour les tests est OK, sans erreur)
+python streamlit_enseignant/preflight_streamlit.py --root .
+
+python streamlit_enseignant/preflight_integration.py
+
+python -m unittest discover -s streamlit_enseignant/tests -p "test_*.py" -v
+
+###3. Configurer Ollama et le mot de passe
+export TEACHER_REVIEW_PASSWORD='andry'
+export OLLAMA_MODEL='qwen2.5:3b'
+
+###4. Lancer Streamlit
+python -m streamlit run streamlit_enseignant/app.py --server.address 127.0.0.1 --server.port 8501
+
+
+===================================================
+Récapitulatif des 5 comptes
+
+Rôle	E-mail	Identifiant	Ce qu’il voit
+Admin	admin@gmail.com	ADMIN-01	Tous les parcours et les 11 pages
+Enseignant DA	da@gmail.com	ENS-DA-01	Parcours DA seulement
+Enseignant BI	bi@gmail.com	ENS-BI-01	Parcours BI seulement
+Enseignant DS	ds@gmail.com	ENS-DS-01	Parcours DS seulement
+Enseignant IA	ia@gmail.com	ENS-IA-01	Parcours IA seulement
+
+
+cd /projet/Model-eval-pers-elearning/streamlit_enseignant$ 
+
+admin123
+python creer_enseignant.py --role admin --email admin@gmail.com --nom "Chercheur"
+python creer_enseignant.py --email da@gmail.com --nom "Enseignant DA" --parcours DA
+python creer_enseignant.py --email bi@gmail.com --nom "Enseignant BI" --parcours BI
+python creer_enseignant.py --email ds@gmail.com --nom "Enseignant DS" --parcours DS
+python creer_enseignant.py --email ia@gmail.com --nom "Enseignant IA" --parcours IA
+streamlit run app.py

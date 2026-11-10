@@ -1,0 +1,37 @@
+﻿chapitre_id,cours_id,chapitre_titre,chapitre_ordre
+CH_BI01_01,RES_BI_01,Découverte de Power BI,1
+CH_BI01_02,RES_BI_01,Power Query,2
+CH_BI01_03,RES_BI_01,Visualisations,3
+CH_BI02_01,RES_BI_02,Modèle de données,1
+CH_BI02_02,RES_BI_02,DAX fondamental,2
+CH_BI02_03,RES_BI_02,Analyse décisionnelle,3
+CH_BI03_01,RES_BI_03,DAX avancé,1
+CH_BI03_02,RES_BI_03,Power BI Service,2
+CH_BI03_03,RES_BI_03,Projet décisionnel,3
+CH_DA01_01,RES_DA_01,Prise en main d'Excel,1
+CH_DA01_02,RES_DA_01,Formules de base,2
+CH_DA01_03,RES_DA_01,Organisation des données,3
+CH_DA02_01,RES_DA_02,Tableaux croisés dynamiques,1
+CH_DA02_02,RES_DA_02,Graphiques avancés,2
+CH_DA02_03,RES_DA_02,Analyse de données,3
+CH_DA03_01,RES_DA_03,Power Query,1
+CH_DA03_02,RES_DA_03,VBA pour Excel,2
+CH_DA03_03,RES_DA_03,Analyse avancée,3
+CH_DS01_01,RES_DS_01,Fondamentaux Python,1
+CH_DS01_02,RES_DS_01,Fonctions et structures,2
+CH_DS01_03,RES_DS_01,Fichiers et erreurs,3
+CH_DS02_01,RES_DS_02,NumPy et tableaux,1
+CH_DS02_02,RES_DS_02,Pandas,2
+CH_DS02_03,RES_DS_02,Visualisation,3
+CH_DS03_01,RES_DS_03,Fondamentaux du ML,1
+CH_DS03_02,RES_DS_03,Modèles supervisés,2
+CH_DS03_03,RES_DS_03,Évaluation et optimisation,3
+CH_IA01_01,RES_IA_01,Introduction à l'IA,1
+CH_IA01_02,RES_IA_01,Données et IA,2
+CH_IA01_03,RES_IA_01,Premiers modèles,3
+CH_IA02_01,RES_IA_02,Régression et classification,1
+CH_IA02_02,RES_IA_02,Arbres et ensembles,2
+CH_IA02_03,RES_IA_02,Sélection et validation,3
+CH_IA03_01,RES_IA_03,Réseaux de neurones,1
+CH_IA03_02,RES_IA_03,Deep Learning pratique,2
+CH_IA03_03,RES_IA_03,Optimisation et déploiement,3
